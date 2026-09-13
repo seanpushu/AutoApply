@@ -1,0 +1,6 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {judgeJob} from '../lib/decision.mjs';
+const job={title:'Software Intern Summer 2027',country:'US',year:2027,season:'Summer',jd:'Python SQL APIs',sourceState:'live-api',checkedAt:'2026-09-12',match:{score:85,checks:[],required:[1,2,3],preferred:[]}};
+test('hard conflict overrides perfect skill coverage',()=>assert.equal(judgeJob({...job,match:{...job.match,score:100,checks:[{status:'blocked',message:'No F1'}]}},'2026-09-12').key,'conflict'));
+test('unknown location, thin evidence and stale source cannot be priority',()=>{for(const patch of [{country:'Unconfirmed'},{jd:''},{checkedAt:'2026-08-01'},{match:{...job.match,required:[1]}}])assert.equal(judgeJob({...job,...patch},'2026-09-12').key,'verify');});
+test('strong supported match is review priority, not guaranteed eligibility',()=>assert.equal(judgeJob(job,'2026-09-12').key,'priority'));
+test('full-time hours do not exclude genuine internships; permanent role excluded',()=>{assert.equal(judgeJob({...job,employmentType:'Full-time'},'2026-09-12').key,'priority');assert.equal(judgeJob({...job,title:'Software Engineer',employmentType:'Full-time'},'2026-09-12').key,'conflict');});

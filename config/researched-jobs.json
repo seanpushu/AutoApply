@@ -1,0 +1,2587 @@
+{
+  "updatedAt": "2026-09-06T09:21:30.739468+00:00",
+  "jobs": [
+    {
+      "id": "google-software-engineering-intern-ms-summer-2027",
+      "company": "Google",
+      "title": "Software Engineering Intern, MS, Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/94172495052972742-software-engineering-intern/",
+      "location": "Multiple U.S. offices, including Pittsburgh, Mountain View, Austin, New York and Seattle",
+      "jd": "MS students in CS or related technical fields; code in at least two general-purpose languages and know data structures/algorithms. US enrollment, 12-week availability and returning to study are preferred. Projects cover software/SRE, scalable systems and automation. Submit English resume and transcript. Rolling review; anticipated deadline September 25, 2026, potentially earlier.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "SDE",
+        "AIE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "Employer official career page / ATS",
+      "sourceState": "official-page",
+      "jdTextKind": "Independent English summary; not full JD",
+      "openStatus": "Official page visible; recheck before applying",
+      "sponsorshipEvidence": "Not stated in the retrieved official JD. Do not infer future sponsorship availability.",
+      "cptEvidence": "CPT/F-1 acceptance is not stated in the retrieved official JD; employer confirmation required.",
+      "degree": "MS",
+      "graduation": "Return to degree program preferred; no fixed graduation window.",
+      "deadline": "2026-09-25",
+      "seasonEvidence": "Official title explicitly Summer 2027.",
+      "country": "Unconfirmed",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://www.google.com/about/careers/applications/jobs/results/94172495052972742-software-engineering-intern/",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "id": "adobe-2027-intern-software-engineer",
+      "company": "Adobe",
+      "title": "2027 Intern - Software Engineer",
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666",
+      "location": "San Jose, CA and other U.S. offices",
+      "jd": "BS/MS in CS, computer engineering or a related field graduating December 2027–June 2028. Requires CS fundamentals, project experience and one language such as Java/Python/C++/JavaScript. Build, test, debug and improve product systems using AI-assisted tools. Full-time May–September; hybrid. US pay $38–51/hour.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "SDE",
+        "AIE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "Adobe public Workday CXS job detail API",
+      "sourceState": "official-page",
+      "jdTextKind": "Independent English summary; not full JD",
+      "openStatus": "Official page visible; recheck before applying",
+      "sponsorshipEvidence": "Not stated in the retrieved official JD. Do not infer future sponsorship availability.",
+      "cptEvidence": "CPT/F-1 acceptance is not stated in the retrieved official JD; employer confirmation required.",
+      "degree": "BS/MS",
+      "graduation": "December 2027–June 2028",
+      "seasonEvidence": "2027 title plus full-time May–September availability.",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "id": "salesforce-summer-2027-intern-software-engineer",
+      "company": "Salesforce",
+      "title": "Summer 2027 Intern - Software Engineer",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/ja-JP/External_Career_Site/job/Summer-2027-Intern---Software-Engineer_JR340771-1",
+      "location": "San Francisco / Palo Alto / New York / Seattle / Burlington and other U.S. offices",
+      "jd": "BS/MS in CS or related field at a North American university; must return to school after Summer 2027. Requires OOP, algorithms, data structures and collaboration. Interest/experience in AI-assisted development is sought; Java, JavaScript, SQL and web skills are helpful. Contribute to products and AI-enabled platform experiences. Flexible office model; $43–52/hour.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "SDE",
+        "AIE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "Employer official career page / ATS",
+      "sourceState": "official-page",
+      "jdTextKind": "Independent English summary; not full JD",
+      "openStatus": "Official indexed JD found; current live hiring status not independently confirmed. Recheck official page before applying.",
+      "sponsorshipEvidence": "Not stated in the retrieved official JD. Do not infer future sponsorship availability.",
+      "cptEvidence": "CPT/F-1 acceptance is not stated in the retrieved official JD; employer confirmation required.",
+      "degree": "BS/MS",
+      "graduation": "Must return to school after Summer 2027.",
+      "seasonEvidence": "Summer 2027 in title and return-to-school requirement.",
+      "country": "Unconfirmed",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://salesforce.wd12.myworkdayjobs.com/ja-JP/External_Career_Site/job/Summer-2027-Intern---Software-Engineer_JR340771-1",
+          "title": "Employer posting"
+        }
+      ],
+      "applicationLimit": 3,
+      "limitGroup": "Salesforce",
+      "limitWindow": "12 months",
+      "limitEvidence": "Please consider applying for a maximum of 3 roles within 12 months.",
+      "status": "Not started"
+    },
+    {
+      "id": "amazon-software-development-engineer-intern-robotics-2027",
+      "company": "Amazon",
+      "title": "Software Development Engineer Intern, ROBOTICS - 2027",
+      "url": "https://www.amazon.jobs/en-gb/jobs/10529525/software-development-engineer-intern-robotics-2027",
+      "location": "Austin / Nashville / Arlington / Bellevue / Seattle / North Reading / Westboro, U.S.",
+      "jd": "Bachelor's or higher in CS or related STEM; one general-purpose programming language plus data structures, algorithms or OOP. Must have an academic term remaining afterward. Develop distributed cloud services and software connecting robotics, computer vision and fulfillment systems. Application covers summer internships and spring/fall co-ops; dates and location depend on placement.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "SDE",
+        "AIE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "Employer official career page / ATS",
+      "sourceState": "official-page",
+      "jdTextKind": "Independent English summary; not full JD",
+      "openStatus": "Official page visible; recheck before applying",
+      "sponsorshipEvidence": "Not stated in the retrieved official JD. Do not infer future sponsorship availability.",
+      "cptEvidence": "CPT/F-1 acceptance is not stated in the retrieved official JD; employer confirmation required.",
+      "degree": "BS or above",
+      "graduation": "At least one academic term after internship.",
+      "seasonEvidence": "2027 title; body explicitly includes summer internships.",
+      "country": "Unconfirmed",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://www.amazon.jobs/en-gb/jobs/10529525/software-development-engineer-intern-robotics-2027",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "id": "workiva-summer-2027-intern-software-engineering",
+      "company": "Workiva",
+      "title": "Summer 2027 Intern - Software Engineering",
+      "url": "https://workiva.wd503.myworkdayjobs.com/en-US/careers/job/Summer-2027-Intern---Software-Engineering_R12190",
+      "location": "USA - Remote",
+      "jd": "Degree-seeking students, preferably software engineering or CS. Build frontend TypeScript/JavaScript features, Java backend search services, or Workiva Assistant functionality, depending on team. CS fundamentals, programming, cloud/web frameworks and communication are preferred or team-dependent. Summer start May 17, 2027, up to 40 hours/week. Engineering deadline October 2, 2026; $40/hour.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "SDE",
+        "AIE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "Employer official career page / ATS",
+      "sourceState": "official-page",
+      "jdTextKind": "Independent English summary; not full JD",
+      "openStatus": "Official indexed JD found; current live hiring status not independently confirmed. Recheck official page before applying.",
+      "sponsorshipEvidence": "Not stated in the retrieved official JD. Do not infer future sponsorship availability.",
+      "cptEvidence": "CPT/F-1 acceptance is not stated in the retrieved official JD; employer confirmation required.",
+      "degree": "Degree-seeking program",
+      "graduation": "Not specified.",
+      "deadline": "2026-10-02",
+      "seasonEvidence": "Title and May 17, 2027 summer start.",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://workiva.wd503.myworkdayjobs.com/en-US/careers/job/Summer-2027-Intern---Software-Engineering_R12190",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "id": "waymo-2027-summer-intern-ms-software-engineering-behavior-test",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS, Software Engineering, Behavior Test",
+      "url": "https://careers.withwaymo.com/jobs/2027-summer-intern-ms-software-engineering-behavior-test-san-francisco-california-united-states?gh_jid=8174504",
+      "location": "San Francisco, CA",
+      "jd": "MS in engineering, CS or a related field; Python/SQL analysis and modeling experience. Build autonomous-vehicle behavior test scenarios, metrics, dashboards and automated test-coverage pipelines. AV/systems engineering familiarity preferred. Hybrid onsite; rolling review; $70/hour. Waymo asks candidates to prioritize their top three roles.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "SDE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "Employer official career page / ATS",
+      "sourceState": "official-page",
+      "jdTextKind": "Independent English summary; not full JD",
+      "openStatus": "Official page visible; recheck before applying",
+      "sponsorshipEvidence": "Not stated in the retrieved official JD. Do not infer future sponsorship availability.",
+      "cptEvidence": "CPT/F-1 acceptance is not stated in the retrieved official JD; employer confirmation required.",
+      "degree": "MS",
+      "graduation": "No fixed date stated.",
+      "seasonEvidence": "Official title explicitly Summer 2027.",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://careers.withwaymo.com/jobs/2027-summer-intern-ms-software-engineering-behavior-test-san-francisco-california-united-states?gh_jid=8174504",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "id": "waymo-2027-summer-intern-ms-phd-data-science-commercialization-testing",
+      "company": "Waymo",
+      "title": "2027 Summer Intern, MS/PhD, Data Science - Commercialization Testing",
+      "url": "https://careers.withwaymo.com/jobs/2027-summer-intern-ms-phd-data-science-commercialization-testing-san-francisco-california-united-states?gh_jid=8167323",
+      "location": "San Francisco, CA",
+      "jd": "Graduate students in DS, statistics, operations research or another quantitative field. Requires predictive analytics, Bayesian modeling/inference, production Python and SQL. Build forecasts and fleet-behavior models using vehicle/depot data, and collaborate on test experiments. Transportation, simulation and survival-analysis experience preferred.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "MLE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "Employer official career page / ATS",
+      "sourceState": "official-page",
+      "jdTextKind": "Independent English summary; not full JD",
+      "openStatus": "Official page visible; recheck before applying",
+      "sponsorshipEvidence": "Not stated in the retrieved official JD. Do not infer future sponsorship availability.",
+      "cptEvidence": "CPT/F-1 acceptance is not stated in the retrieved official JD; employer confirmation required.",
+      "degree": "MS/PhD",
+      "graduation": "No fixed date stated.",
+      "seasonEvidence": "Official title explicitly Summer 2027.",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://careers.withwaymo.com/jobs/2027-summer-intern-ms-phd-data-science-commercialization-testing-san-francisco-california-united-states?gh_jid=8167323",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "company": "Waymo",
+      "location": "San Francisco, CA",
+      "country": "US",
+      "workMode": "Hybrid onsite (page metadata also says onsite)",
+      "season": "Summer",
+      "year": 2027,
+      "authorization": "CPT acceptance and future sponsorship are not stated in the public JD; verify.",
+      "deadline": null,
+      "deadlineNote": "Rolling review until filled; no fixed deadline stated.",
+      "sourceType": "Employer official careers",
+      "sourceState": "official-page",
+      "sourceMethod": "Official role page read; Apply now entry visible.",
+      "openStatus": "Official page visible; recheck before applying",
+      "openConfidence": "high",
+      "checkedAt": "2026-09-06",
+      "jdTextKind": "Independent English summary; not full JD",
+      "requirementsClassified": true,
+      "companyApplicationLimit": 3,
+      "companyApplicationLimitNote": "Posting asks candidates to apply to their top three roles; each requires a separate application.",
+      "id": "waymo-2027-summer-intern-bs-ms-pipeline-and-test-health-engineer",
+      "title": "2027 Summer Intern, BS/MS, Pipeline and Test Health Engineer",
+      "tracks": [
+        "SDE"
+      ],
+      "url": "https://careers.withwaymo.com/jobs/2027-summer-intern-bs-ms-pipeline-and-test-health-engineer-san-francisco-california-united-states",
+      "degree": "BS/MS",
+      "graduation": "No fixed date stated.",
+      "pay": "BS $60/h; MS $70/h",
+      "summary": "Keep simulation tests reliable, investigate failures and build monitoring/debugging automation.",
+      "skills": [
+        "Python",
+        "C++",
+        "SQL",
+        "Testing",
+        "SRE"
+      ],
+      "requiredSkills": [
+        "Python or C++",
+        "Debugging complex systems"
+      ],
+      "preferredSkills": [
+        "SRE/SLO concepts",
+        "Python/SQL automation and dashboards",
+        "Distributed-system debugging"
+      ],
+      "required": "Relevant degree enrollment, coding and debugging skills.",
+      "seasonEvidence": "Official title explicitly Summer 2027.",
+      "sources": [
+        {
+          "title": "Waymo official job posting",
+          "url": "https://careers.withwaymo.com/jobs/2027-summer-intern-bs-ms-pipeline-and-test-health-engineer-san-francisco-california-united-states"
+        }
+      ],
+      "jd": "BS/MS in engineering, CS, robotics or related field. Requires coding/debugging complex systems in Python or C++. Maintain release-critical simulation tests, investigate failures, and create monitoring/automation infrastructure. SRE/SLOs and Python/SQL automation preferred. Hybrid onsite; master's rate $70/hour.",
+      "yearBasis": "employer-text",
+      "source": "Employer official career page / ATS",
+      "officialVerifiedAt": "2026-09-06",
+      "applicationLimit": 3,
+      "limitGroup": "Waymo",
+      "sponsorshipEvidence": "Not stated in the retrieved official JD. Do not infer future sponsorship availability.",
+      "cptEvidence": "CPT/F-1 acceptance is not stated in the retrieved official JD; employer confirmation required.",
+      "firstSeenAt": null,
+      "lastSeenAt": null,
+      "status": "Not started"
+    },
+    {
+      "id": "roblox-summer-2027-software-engineer-intern",
+      "company": "Roblox",
+      "title": "[Summer 2027] Software Engineer Intern",
+      "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
+      "location": "San Mateo, CA",
+      "jd": "Undergraduate or graduate study in CS/engineering or related field; developing proficiency in at least one language. Own a 12-week production project across infrastructure, engine, discovery, AI or economy teams. Includes coding, testing and deployment. Office days Tuesday–Thursday; $62/hour.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "SDE",
+        "AIE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "Employer official career page / ATS",
+      "sourceState": "official-page",
+      "jdTextKind": "Independent English summary; not full JD",
+      "openStatus": "Official page visible; recheck before applying",
+      "sponsorshipEvidence": "Official JD cautions that some visa categories or future H-1B sponsorship may not be supported; not a definite universal refusal.",
+      "cptEvidence": "Certain visa categories may be unsupported; F-1/CPT is not separately resolved in this JD.",
+      "degree": "Undergraduate/graduate",
+      "graduation": "No fixed window stated.",
+      "seasonEvidence": "Official title explicitly Summer 2027.",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "id": "western-digital-summer-2027-intern-software-engineering",
+      "company": "Western Digital",
+      "title": "Summer 2027 Intern - Software Engineering",
+      "url": "https://jobs.smartrecruiters.com/WesternDigital/744000138727213-summer-2027-software-engineering-internship?trid=7d1dcdfa-96a8-4e55-bb9c-0db211f5a9b3",
+      "location": "Colorado Springs / Irvine / Longmont / Fremont / Rochester / San Jose, U.S.",
+      "jd": "BS/MS in CS, software/computer/systems engineering, DS, EE or related field. Requires programming and software fundamentals. Multi-team intake covers system tools, applications, data pipelines, firmware and systems integration. The posting supports current and anticipated needs, with no guaranteed immediate role or interview. Expected deadline October 20, 2026.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "SDE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "Employer official career page / ATS",
+      "sourceState": "official-page",
+      "jdTextKind": "Independent English summary; not full JD",
+      "openStatus": "Summer 2027 recruiting intake; immediate vacancy not guaranteed",
+      "sponsorshipEvidence": "Not stated in the retrieved official JD. Do not infer future sponsorship availability.",
+      "cptEvidence": "CPT/F-1 acceptance is not stated in the retrieved official JD; employer confirmation required.",
+      "degree": "BS/MS",
+      "graduation": "No fixed window stated.",
+      "deadline": "2026-10-20",
+      "seasonEvidence": "Summer 2027 in official title.",
+      "listingType": "multi-team intake",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://jobs.smartrecruiters.com/WesternDigital/744000138727213-summer-2027-software-engineering-internship?trid=7d1dcdfa-96a8-4e55-bb9c-0db211f5a9b3",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "id": "intuit-summer-2027-software-engineering-intern-full-stack",
+      "company": "Intuit",
+      "title": "Summer 2027: Software Engineering Intern - Full Stack",
+      "url": "https://jobs.intuit.com/en/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864",
+      "location": "Mountain View / Atlanta / Charlotte / New York / San Diego, U.S.",
+      "jd": "Indexed JD accepts degree-seeking students graduating after the internship. Two 12-week cohorts: May 17–Aug 6 or June 14–Sep 3, 2027. Full-stack familiarity, OOP, Git/CI and Agile experience sought. Requires full-time U.S. work authorization for internship; hybrid. Direct page returned 404 when checked, so current availability is unconfirmed.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "SDE",
+        "AIE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "Employer official career page / ATS",
+      "sourceState": "official-page",
+      "jdTextKind": "Independent English summary; not full JD",
+      "openStatus": "Needs recheck: official index exists but direct page returned 404",
+      "sponsorshipEvidence": "Not stated in the retrieved official JD. Do not infer future sponsorship availability.",
+      "cptEvidence": "Requires full-time U.S. authorization for internship; no explicit CPT acceptance.",
+      "degree": "Associate/BS/MS/MBA/PhD or equivalent degree-seeking program",
+      "graduation": "After internship end.",
+      "seasonEvidence": "Summer 2027 title and explicit 2027 cohort dates in official index.",
+      "listingType": "unavailable-on-direct-check",
+      "country": "Unconfirmed",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://jobs.intuit.com/en/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "id": "nisc-intern-software-development",
+      "company": "NISC",
+      "title": "Intern - Software Development",
+      "url": "https://job-boards.greenhouse.io/testnisc/jobs/8174088",
+      "location": "Cedar Rapids, IA; body also lists Lake Saint Louis, MO / Mandan, ND",
+      "jd": "Summer 2027 May–August consideration. Develop and maintain enterprise/mobile applications for utilities and broadband; unit/integration testing. Desired experience includes Java, JavaScript/Angular/TypeScript, databases, Linux and AWS. High school diploma required; pursuing a CS-related bachelor's is listed as desired education. At least three office days weekly.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "SDE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "Employer official career page / ATS",
+      "sourceState": "official-page",
+      "jdTextKind": "Independent English summary; not full JD",
+      "openStatus": "Official page visible; recheck before applying",
+      "sponsorshipEvidence": "Not stated in the retrieved official JD. Do not infer future sponsorship availability.",
+      "cptEvidence": "CPT/F-1 acceptance is not stated in the retrieved official JD; employer confirmation required.",
+      "degree": "Bachelor's pursuit listed; MS acceptance not explicit.",
+      "graduation": "Not specified.",
+      "seasonEvidence": "Body explicitly says current applications are for Summer 2027, May–August.",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://job-boards.greenhouse.io/testnisc/jobs/8174088",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "id": "atlassian-software-engineer-intern-2027-summer-u-s",
+      "company": "Atlassian",
+      "title": "Software Engineer Intern, 2027 Summer U.S.",
+      "url": "https://www.atlassian.com/company/careers/details/26266",
+      "location": "Seattle, WA / San Francisco, CA",
+      "jd": "12-week May/June–August/September 2027 program. BS/MS in CS or related field, returning to study and graduating by August 2028. Programming and algorithms required. Explicitly excludes F-1 and J-1 students and offers no work sponsorship.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "SDE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "Employer official career page / ATS",
+      "sourceState": "official-page",
+      "jdTextKind": "Independent English summary; not full JD",
+      "openStatus": "Official indexed JD found; current live hiring status not independently confirmed. Recheck official page before applying.",
+      "sponsorshipEvidence": "No work sponsorship for this role.",
+      "cptEvidence": "This position is not eligible for F1 and J1 students.",
+      "degree": "BS/MS",
+      "graduation": "By August 2028; returning to study.",
+      "seasonEvidence": "Summer 2027 title and explicit dates.",
+      "listingType": "profile-conflict",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://www.atlassian.com/company/careers/details/26266",
+          "title": "Employer posting"
+        }
+      ],
+      "urlAliases": [
+        "https://careers-americas.icims.com/jobs/26266/software-engineer-intern%2c-2027-summer-u.s./job",
+        "https://www.atlassian.com/company/careers/details/26266"
+      ],
+      "status": "Not started"
+    },
+    {
+      "id": "mastercard-software-engineer-intern-summer-2027-united-states",
+      "company": "Mastercard",
+      "title": "Software Engineer Intern, Summer 2027 – United States",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Software-Engineer-Intern--Summer-2027---United-States_R-287618-1",
+      "location": "O'Fallon, MO / Arlington, VA / Atlanta, GA / New York, NY",
+      "jd": "Bachelor's in CS/engineering or related field, graduating December 2027 or later. Programming, data structures, algorithms and Git basics; build and test software across teams. Explicitly excludes F-1 students including CPT/OPT, and anyone needing sponsorship now or later.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "SDE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "Employer official career page / ATS",
+      "sourceState": "official-page",
+      "jdTextKind": "Independent English summary; not full JD",
+      "openStatus": "Official indexed JD found; current live hiring status not independently confirmed. Recheck official page before applying.",
+      "sponsorshipEvidence": "Requires eligibility without employer sponsorship now and in the future.",
+      "cptEvidence": "F-1, including CPT/OPT, explicitly ineligible.",
+      "degree": "Bachelor's",
+      "graduation": "December 2027 or later.",
+      "seasonEvidence": "Official title explicitly Summer 2027.",
+      "listingType": "profile-conflict",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus/job/Software-Engineer-Intern--Summer-2027---United-States_R-287618-1",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "id": "paypal-software-engineer-intern",
+      "company": "PayPal",
+      "title": "Software Engineer Intern",
+      "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-Intern_R0137285",
+      "location": "San Jose, CA / Austin, TX / Chicago, IL",
+      "jd": "Summer 2027 only. BS/MS in CS/software engineering or related field, returning to school in Fall 2027. Requires programming, CS fundamentals and project experience. Build scalable front/back-end payment software and databases; participate in reviews and production debugging. No sponsorship now or at any future point for this position.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "SDE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "PayPal public Workday CXS job detail API",
+      "sourceState": "official-page",
+      "jdTextKind": "Independent English summary; not full JD",
+      "openStatus": "Official page visible; recheck before applying",
+      "sponsorshipEvidence": "No visa sponsorship for this position now or at any time in the future.",
+      "degree": "BS/MS",
+      "graduation": "Return to school Fall 2027.",
+      "seasonEvidence": "Body explicitly says Summer 2027, no spring/fall program.",
+      "listingType": "profile-conflict",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-Intern_R0137285",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "id": "medtronic-software-engineering-intern-summer-2027",
+      "company": "Medtronic",
+      "title": "Software Engineering Intern – Summer 2027",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Software-Engineering-Intern---Summer-2027_R73630-1",
+      "location": "United States; location detail not captured in this source excerpt",
+      "jd": "BS/MS in computer/software engineering, CS or related engineering; graduation Winter 2027 through Spring 2029. Full-time summer cohorts run June 1–Aug 13 or June 14–Aug 20. Program explicitly rejects temporary visa categories including F-1 CPT/OPT and candidates needing future sponsorship.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "SDE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "Employer official career page / ATS",
+      "sourceState": "official-page",
+      "jdTextKind": "Independent English summary; not full JD",
+      "openStatus": "Official indexed JD found; current live hiring status not independently confirmed. Recheck official page before applying.",
+      "sponsorshipEvidence": "No internship work authorization sponsorship; future sponsorship need is disqualifying.",
+      "cptEvidence": "F-1 CPT/OPT explicitly ineligible.",
+      "degree": "BS/MS",
+      "graduation": "Winter 2027 / Spring 2028 / Winter 2028 / Spring 2029.",
+      "seasonEvidence": "Title and summer cohort requirements.",
+      "listingType": "profile-conflict",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Software-Engineering-Intern---Summer-2027_R73630-1",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "id": "anduril-industries-2027-software-engineer-intern",
+      "company": "Anduril Industries",
+      "title": "2027 Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
+      "location": "Multiple U.S. offices including Costa Mesa, Seattle, Boston and Reston",
+      "jd": "12-week Summer 2027 onsite internship. BS/MS in CS/software engineering or related STEM; at least one academic term after internship. Develop, test and monitor software products. U.S. Person status required for export-controlled access; some programs also require clearance eligibility.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "SDE",
+        "AIE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "Employer official career page / ATS",
+      "sourceState": "official-page",
+      "jdTextKind": "Independent English summary; not full JD",
+      "openStatus": "Official indexed JD found; current live hiring status not independently confirmed. Recheck official page before applying.",
+      "sponsorshipEvidence": "U.S. Person restriction; general visa sponsorship policy not separately stated.",
+      "cptEvidence": "F-1/CPT alone does not satisfy the stated U.S. Person requirement.",
+      "degree": "BS/MS",
+      "graduation": "At least one term after internship.",
+      "seasonEvidence": "Body explicitly Summer 2027.",
+      "listingType": "profile-conflict",
+      "country": "Unconfirmed",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "id": "spacex-summer-2027-software-engineering-internship-co-op",
+      "company": "SpaceX",
+      "title": "Summer 2027 Software Engineering Internship/Co-op",
+      "url": "https://job-boards.greenhouse.io/spacex/jobs/8621757002",
+      "location": "Multiple U.S. sites including Texas, California, Florida and Redmond, WA",
+      "jd": "Enrolled bachelor's or graduate students with three months of programming and experience in one supported language. Full-time onsite for at least 12 consecutive weeks beginning May or June 2027. Explicitly requires citizenship/nationality, permanent residence, refugee or asylee status.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "SDE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "Employer official career page / ATS",
+      "sourceState": "official-page",
+      "jdTextKind": "Independent English summary; not full JD",
+      "openStatus": "Official indexed JD found; current live hiring status not independently confirmed. Recheck official page before applying.",
+      "sponsorshipEvidence": "Only the specifically listed citizenship/immigration categories qualify.",
+      "cptEvidence": "F-1/CPT is not one of the listed permitted categories.",
+      "degree": "Bachelor's/graduate",
+      "graduation": "Not specified.",
+      "seasonEvidence": "Title and May/June 2027 start.",
+      "listingType": "profile-conflict",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://job-boards.greenhouse.io/spacex/jobs/8621757002",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "id": "northmarq-software-engineering-intern-summer-2027",
+      "company": "Northmarq",
+      "title": "Software Engineering Intern, Summer 2027",
+      "url": "https://job-boards.greenhouse.io/northmarq/jobs/5414475008",
+      "location": "Minneapolis/Bloomington, MN",
+      "jd": "Office-based software internship focused on test automation, debugging, web services and databases. Associate/bachelor's pursuit in IT/CS or STEM is stated; OOP and web familiarity sought. Requires unrestricted U.S. work authorization without sponsorship now or in the future.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "SDE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "Employer official career page / ATS",
+      "sourceState": "official-page",
+      "jdTextKind": "Independent English summary; not full JD",
+      "openStatus": "Official indexed JD found; current live hiring status not independently confirmed. Recheck official page before applying.",
+      "sponsorshipEvidence": "No immigration sponsorship now or in the future; unrestricted authorization required.",
+      "cptEvidence": "Temporary CPT does not resolve the posting's unrestricted/future authorization requirement.",
+      "degree": "Associate/bachelor's",
+      "graduation": "Not specified.",
+      "seasonEvidence": "Official title explicitly Summer 2027.",
+      "listingType": "profile-conflict",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://job-boards.greenhouse.io/northmarq/jobs/5414475008",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "id": "nvidia-nvidia-2027-internships-software-engineering",
+      "company": "NVIDIA",
+      "title": "NVIDIA 2027 Internships: Software Engineering",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
+      "location": "Santa Clara, CA",
+      "jd": "Multi-team 2027 software internship intake for actively enrolled BS/MS/PhD students; 12-week full-time placements. Areas include development tools, cloud infrastructure, tools systems and MLOps. Technical requirements depend on placement. Graduation month/year must be on resume. Ongoing review; specific summer dates not stated.",
+      "year": 2027,
+      "season": "Unconfirmed",
+      "tracks": [
+        "SDE",
+        "MLE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "Employer official career page / ATS",
+      "sourceState": "official-page",
+      "jdTextKind": "Independent English summary; not full JD",
+      "openStatus": "Official indexed JD found; current live hiring status not independently confirmed. Recheck official page before applying.",
+      "sponsorshipEvidence": "Not stated in the retrieved official JD. Do not infer future sponsorship availability.",
+      "cptEvidence": "CPT/F-1 acceptance is not stated in the retrieved official JD; employer confirmation required.",
+      "degree": "BS/MS/PhD",
+      "graduation": "Enrolled throughout internship; exact graduation date must be provided.",
+      "seasonEvidence": "2027 is explicit, but the retrieved JD does not specify summer.",
+      "listingType": "2027-season-unconfirmed",
+      "country": "US",
+      "yearBasis": "employer-year-unconfirmed",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "id": "amazon-software-development-engineer-intern-annapurna-labs-2027",
+      "company": "Amazon",
+      "title": "Software Development Engineer Intern, Annapurna Labs - 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027",
+      "location": "Austin, TX / Seattle, WA / New York, NY / Cupertino, CA",
+      "jd": "BS/MS in CS/computer engineering or related field, graduating December 2027 or later. Requires programming, algorithms/software design and systems fundamentals. Work may cover ML compilers, runtimes, drivers or distributed training. Linux, C/C++, ML frameworks and systems contributions preferred. Posting explicitly says 2027 but not a summer schedule.",
+      "year": 2027,
+      "season": "Unconfirmed",
+      "tracks": [
+        "SDE",
+        "MLE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "Employer official career page / ATS",
+      "sourceState": "official-page",
+      "jdTextKind": "Independent English summary; not full JD",
+      "openStatus": "Official indexed JD found; current live hiring status not independently confirmed. Recheck official page before applying.",
+      "sponsorshipEvidence": "Not stated in the retrieved official JD. Do not infer future sponsorship availability.",
+      "cptEvidence": "CPT/F-1 acceptance is not stated in the retrieved official JD; employer confirmation required.",
+      "degree": "BS/MS",
+      "graduation": "December 2027 or later.",
+      "seasonEvidence": "2027 in title; no explicit summer dates in retrieved JD.",
+      "listingType": "2027-season-unconfirmed",
+      "country": "US",
+      "yearBasis": "employer-year-unconfirmed",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "id": "the-trade-desk-2027-north-america-software-engineering-internship",
+      "company": "The Trade Desk",
+      "title": "2027 North America Software Engineering Internship",
+      "url": "https://careers.thetradedesk.com/jobs/5187605007/2027-north-america-software-engineering-internship",
+      "location": "Bellevue / Boulder / Denver / Irvine / New York / Seattle, U.S.",
+      "jd": "BS/MS students graduating Autumn 2027–Summer 2028. Requires OOP, data structures and algorithms; hybrid office Tuesday–Thursday. Ship a mentored project across distributed systems, large-scale data, ML/AI or UI. Apply once for all North America locations. Retrieved official title says 2027 but no explicit summer dates.",
+      "year": 2027,
+      "season": "Unconfirmed",
+      "tracks": [
+        "SDE",
+        "AIE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "Employer official career page / ATS",
+      "sourceState": "official-page",
+      "jdTextKind": "Independent English summary; not full JD",
+      "openStatus": "Official indexed JD and application form found; application availability does not guarantee continued hiring.",
+      "sponsorshipEvidence": "Official form asks about current/future sponsorship needs; this is not a sponsorship promise.",
+      "cptEvidence": "Form asks for legal U.S. work authorization; CPT acceptance not stated.",
+      "degree": "BS/MS",
+      "graduation": "Autumn 2027–Summer 2028",
+      "seasonEvidence": "2027 in title; summer categorization in external trackers is not sufficient alone.",
+      "listingType": "2027-season-unconfirmed",
+      "country": "Unconfirmed",
+      "yearBasis": "employer-year-unconfirmed",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://careers.thetradedesk.com/jobs/5187605007/2027-north-america-software-engineering-internship",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "id": "stripe-software-engineer-intern-summer-or-winter",
+      "company": "Stripe",
+      "title": "Software Engineer, Intern (Summer or Winter)",
+      "url": "https://stripe.com/careers/listing/software-engineer-intern-summer-or-winter/8128745?gh_jid=8128745",
+      "location": "San Francisco / Seattle / New York City, U.S.",
+      "jd": "BS/MS students in CS/math or related field with programming, multi-person project experience and CS fundamentals. Ship production work, review code and use AI tools critically. Stack examples include Ruby, Java, JavaScript, Go and Scala. Summer/winter are named but 2027 is not in the retrieved official JD.",
+      "year": null,
+      "season": "Summer or Winter; year unconfirmed",
+      "tracks": [
+        "SDE",
+        "AIE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "Employer official career page / ATS",
+      "sourceState": "official-page",
+      "jdTextKind": "Independent English summary; not full JD",
+      "openStatus": "Official page visible; recheck before applying",
+      "sponsorshipEvidence": "Not stated in the retrieved official JD. Do not infer future sponsorship availability.",
+      "cptEvidence": "CPT/F-1 acceptance is not stated in the retrieved official JD; employer confirmation required.",
+      "degree": "BS/MS",
+      "graduation": "Not specified.",
+      "seasonEvidence": "Summer/winter in title; no year in official body.",
+      "listingType": "year-unconfirmed",
+      "country": "Unconfirmed",
+      "yearBasis": "employer-year-unconfirmed",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://stripe.com/careers/listing/software-engineer-intern-summer-or-winter/8128745?gh_jid=8128745",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "checkedAt": "2026-09-06",
+      "source": "American Express public Oracle recruitingCEJobRequisitionDetails API",
+      "sourceState": "official-page",
+      "jdTextKind": "Independent English summary; not full JD",
+      "openStatus": "Official public requisition detail returned; posting end date is in the future, subject to early closure.",
+      "sponsorshipEvidence": "The JD says the company will not pursue visa sponsorship for these positions. Future full-time sponsorship is not separately specified.",
+      "cptEvidence": "CPT/F-1 is not separately discussed. Do not assume CPT acceptance from the no-sponsorship statement; ask employer.",
+      "id": "amex-26012392",
+      "company": "American Express",
+      "title": "Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Phoenix, AZ",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012392",
+      "location": "Phoenix, AZ, United States; hybrid",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "AIE",
+        "MLE"
+      ],
+      "jd": "Ten-week master's internship to integrate and evaluate ML/LLM systems, retrieval, data pipelines and agents. Requires Python, CS/ML fundamentals, modern AI-system experience and responsible-AI awareness. AI application projects, NLP/embeddings, cloud/ETL and collaborative engineering practices are preferred. Master's graduation window is December 2027–June 2028.",
+      "sourceUrl": "https://egug.fa.us2.oraclecloud.com/hcmRestApi/resources/11.13.18.05/recruitingCEJobRequisitionDetails?onlyData=true&finder=ById;Id=26012392",
+      "degree": "Full-time master's",
+      "graduation": "December 2027–June 2028",
+      "deadline": "2026-11-01T00:59:00-04:00",
+      "seasonEvidence": "Official title says Summer Internship Program 2027; body specifies ten-week summer program.",
+      "listingType": "authorization-needs-clarification",
+      "roleFamilyGroup": "amex-2027-masters-ai",
+      "groupNote": "Distinct city-specific requisition sharing the same role family; do not interpret as a different technical specialization.",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012392",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "checkedAt": "2026-09-06",
+      "source": "American Express public Oracle recruitingCEJobRequisitionDetails API",
+      "sourceState": "official-page",
+      "jdTextKind": "Independent English summary; not full JD",
+      "openStatus": "Official public requisition detail returned; posting end date is in the future, subject to early closure.",
+      "sponsorshipEvidence": "The JD says the company will not pursue visa sponsorship for these positions. Future full-time sponsorship is not separately specified.",
+      "cptEvidence": "CPT/F-1 is not separately discussed. Do not assume CPT acceptance from the no-sponsorship statement; ask employer.",
+      "id": "amex-26011991",
+      "company": "American Express",
+      "title": "Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- New York, NY",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011991",
+      "location": "New York, NY, United States; hybrid",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "AIE",
+        "MLE"
+      ],
+      "jd": "Ten-week master's internship to integrate and evaluate ML/LLM systems, retrieval, data pipelines and agents. Requires Python, CS/ML fundamentals, modern AI-system experience and responsible-AI awareness. AI application projects, NLP/embeddings, cloud/ETL and collaborative engineering practices are preferred. Master's graduation window is December 2027–June 2028.",
+      "sourceUrl": "https://egug.fa.us2.oraclecloud.com/hcmRestApi/resources/11.13.18.05/recruitingCEJobRequisitionDetails?onlyData=true&finder=ById;Id=26011991",
+      "degree": "Full-time master's",
+      "graduation": "December 2027–June 2028",
+      "deadline": "2026-10-30T23:59:00-04:00",
+      "seasonEvidence": "Official title says Summer Internship Program 2027; body specifies ten-week summer program.",
+      "listingType": "authorization-needs-clarification",
+      "roleFamilyGroup": "amex-2027-masters-ai",
+      "groupNote": "Distinct city-specific requisition sharing the same role family; do not interpret as a different technical specialization.",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011991",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "checkedAt": "2026-09-06",
+      "source": "American Express public Oracle recruitingCEJobRequisitionDetails API",
+      "sourceState": "official-page",
+      "jdTextKind": "Independent English summary; not full JD",
+      "openStatus": "Official public requisition detail returned; posting end date is in the future, subject to early closure.",
+      "sponsorshipEvidence": "The JD says the company will not pursue visa sponsorship for these positions. Future full-time sponsorship is not separately specified.",
+      "cptEvidence": "CPT/F-1 is not separately discussed. Do not assume CPT acceptance from the no-sponsorship statement; ask employer.",
+      "id": "amex-26011999",
+      "company": "American Express",
+      "title": "Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Sunrise, FL",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011999",
+      "location": "Sunrise, FL, United States; hybrid",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "AIE",
+        "MLE"
+      ],
+      "jd": "Ten-week master's internship to integrate and evaluate ML/LLM systems, retrieval, data pipelines and agents. Requires Python, CS/ML fundamentals, modern AI-system experience and responsible-AI awareness. AI application projects, NLP/embeddings, cloud/ETL and collaborative engineering practices are preferred. Master's graduation window is December 2027–June 2028.",
+      "sourceUrl": "https://egug.fa.us2.oraclecloud.com/hcmRestApi/resources/11.13.18.05/recruitingCEJobRequisitionDetails?onlyData=true&finder=ById;Id=26011999",
+      "degree": "Full-time master's",
+      "graduation": "December 2027–June 2028",
+      "deadline": "2026-10-10T00:00:00-04:00",
+      "seasonEvidence": "Official title says Summer Internship Program 2027; body specifies ten-week summer program.",
+      "listingType": "authorization-needs-clarification",
+      "roleFamilyGroup": "amex-2027-masters-ai",
+      "groupNote": "Distinct city-specific requisition sharing the same role family; do not interpret as a different technical specialization.",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011999",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "checkedAt": "2026-09-06",
+      "source": "American Express public Oracle recruitingCEJobRequisitionDetails API",
+      "sourceState": "official-page",
+      "jdTextKind": "Independent English summary; not full JD",
+      "openStatus": "Official public requisition detail returned; posting end date is in the future, subject to early closure.",
+      "sponsorshipEvidence": "The JD says the company will not pursue visa sponsorship for these positions. Future full-time sponsorship is not separately specified.",
+      "cptEvidence": "CPT/F-1 is not separately discussed. Do not assume CPT acceptance from the no-sponsorship statement; ask employer.",
+      "id": "amex-26012000",
+      "company": "American Express",
+      "title": "Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Atlanta, GA",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012000",
+      "location": "Atlanta, GA, United States; hybrid",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "AIE",
+        "MLE"
+      ],
+      "jd": "Ten-week master's internship to integrate and evaluate ML/LLM systems, retrieval, data pipelines and agents. Requires Python, CS/ML fundamentals, modern AI-system experience and responsible-AI awareness. AI application projects, NLP/embeddings, cloud/ETL and collaborative engineering practices are preferred. Master's graduation window is December 2027–June 2028.",
+      "sourceUrl": "https://egug.fa.us2.oraclecloud.com/hcmRestApi/resources/11.13.18.05/recruitingCEJobRequisitionDetails?onlyData=true&finder=ById;Id=26012000",
+      "degree": "Full-time master's",
+      "graduation": "December 2027–June 2028",
+      "deadline": "2026-10-31T23:59:00-04:00",
+      "seasonEvidence": "Official title says Summer Internship Program 2027; body specifies ten-week summer program.",
+      "listingType": "authorization-needs-clarification",
+      "roleFamilyGroup": "amex-2027-masters-ai",
+      "groupNote": "Distinct city-specific requisition sharing the same role family; do not interpret as a different technical specialization.",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012000",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "checkedAt": "2026-09-06",
+      "source": "American Express public Oracle recruitingCEJobRequisitionDetails API",
+      "sourceState": "official-page",
+      "jdTextKind": "Independent English summary; not full JD",
+      "openStatus": "Official public requisition detail returned; posting end date is in the future, subject to early closure.",
+      "sponsorshipEvidence": "The JD says the company will not pursue visa sponsorship for these positions. Future full-time sponsorship is not separately specified.",
+      "cptEvidence": "CPT/F-1 is not separately discussed. Do not assume CPT acceptance from the no-sponsorship statement; ask employer.",
+      "id": "amex-26011987",
+      "company": "American Express",
+      "title": "Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987",
+      "location": "Charlotte, NC, United States; hybrid",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "SDE",
+        "AIE"
+      ],
+      "jd": "Ten-week software internship across backend, frontend, cloud, mobile, data or AI teams. Requires programming, CS fundamentals and familiarity with version control/testing/reviews; AI development experience is preferred. Graduation window is December 2027–June 2028. Full-time master's enrollment required.",
+      "sourceUrl": "https://egug.fa.us2.oraclecloud.com/hcmRestApi/resources/11.13.18.05/recruitingCEJobRequisitionDetails?onlyData=true&finder=ById;Id=26011987",
+      "degree": "Full-time master's",
+      "graduation": "December 2027–June 2028",
+      "deadline": "2026-10-30T23:59:00-04:00",
+      "seasonEvidence": "Official title says Summer Internship Program 2027; body specifies ten-week summer program.",
+      "listingType": "authorization-needs-clarification",
+      "roleFamilyGroup": "amex-2027-masters-software",
+      "groupNote": "Distinct city-specific requisition sharing the same role family; do not interpret as a different technical specialization.",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "checkedAt": "2026-09-06",
+      "source": "American Express public Oracle recruitingCEJobRequisitionDetails API",
+      "sourceState": "official-page",
+      "jdTextKind": "Independent English summary; not full JD",
+      "openStatus": "Official public requisition detail returned; posting end date is in the future, subject to early closure.",
+      "sponsorshipEvidence": "The JD says the company will not pursue visa sponsorship for these positions. Future full-time sponsorship is not separately specified.",
+      "cptEvidence": "CPT/F-1 is not separately discussed. Do not assume CPT acceptance from the no-sponsorship statement; ask employer.",
+      "id": "amex-26011082",
+      "company": "American Express",
+      "title": "Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- New York, NY",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082",
+      "location": "New York, NY, United States; hybrid",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "SDE",
+        "AIE"
+      ],
+      "jd": "Ten-week software internship across backend, frontend, cloud, mobile, data or AI teams. Requires programming, CS fundamentals and familiarity with version control/testing/reviews; AI development experience is preferred. Graduation window is December 2027–June 2028. Full-time master's enrollment required.",
+      "sourceUrl": "https://egug.fa.us2.oraclecloud.com/hcmRestApi/resources/11.13.18.05/recruitingCEJobRequisitionDetails?onlyData=true&finder=ById;Id=26011082",
+      "degree": "Full-time master's",
+      "graduation": "December 2027–June 2028",
+      "deadline": "2026-10-30T23:59:00-04:00",
+      "seasonEvidence": "Official title says Summer Internship Program 2027; body specifies ten-week summer program.",
+      "listingType": "authorization-needs-clarification",
+      "roleFamilyGroup": "amex-2027-masters-software",
+      "groupNote": "Distinct city-specific requisition sharing the same role family; do not interpret as a different technical specialization.",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "checkedAt": "2026-09-06",
+      "source": "American Express public Oracle recruitingCEJobRequisitionDetails API",
+      "sourceState": "official-page",
+      "jdTextKind": "Independent English summary; not full JD",
+      "openStatus": "Official public requisition detail returned; posting end date is in the future, subject to early closure.",
+      "sponsorshipEvidence": "The JD says the company will not pursue visa sponsorship for these positions. Future full-time sponsorship is not separately specified.",
+      "cptEvidence": "CPT/F-1 is not separately discussed. Do not assume CPT acceptance from the no-sponsorship statement; ask employer.",
+      "id": "amex-26011084",
+      "company": "American Express",
+      "title": "Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Sunrise, FL",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011084",
+      "location": "Sunrise, FL, United States; hybrid",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "SDE",
+        "AIE"
+      ],
+      "jd": "Ten-week software internship across backend, frontend, cloud, mobile, data or AI teams. Requires programming, CS fundamentals and familiarity with version control/testing/reviews; AI development experience is preferred. Graduation window is December 2027–June 2028. Full-time master's enrollment required.",
+      "sourceUrl": "https://egug.fa.us2.oraclecloud.com/hcmRestApi/resources/11.13.18.05/recruitingCEJobRequisitionDetails?onlyData=true&finder=ById;Id=26011084",
+      "degree": "Full-time master's",
+      "graduation": "December 2027–June 2028",
+      "deadline": "2026-10-30T23:59:00-04:00",
+      "seasonEvidence": "Official title says Summer Internship Program 2027; body specifies ten-week summer program.",
+      "listingType": "authorization-needs-clarification",
+      "roleFamilyGroup": "amex-2027-masters-software",
+      "groupNote": "Distinct city-specific requisition sharing the same role family; do not interpret as a different technical specialization.",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011084",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "checkedAt": "2026-09-06",
+      "source": "American Express public Oracle recruitingCEJobRequisitionDetails API",
+      "sourceState": "official-page",
+      "jdTextKind": "Independent English summary; not full JD",
+      "openStatus": "Official public requisition detail returned; posting end date is in the future, subject to early closure.",
+      "sponsorshipEvidence": "The JD says the company will not pursue visa sponsorship for these positions. Future full-time sponsorship is not separately specified.",
+      "cptEvidence": "CPT/F-1 is not separately discussed. Do not assume CPT acceptance from the no-sponsorship statement; ask employer.",
+      "id": "amex-26011784",
+      "company": "American Express",
+      "title": "Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Phoenix, AZ",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011784",
+      "location": "Phoenix, AZ, United States; hybrid",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "SDE",
+        "AIE"
+      ],
+      "jd": "Ten-week software internship across backend, frontend, cloud, mobile, data or AI teams. Requires programming, CS fundamentals and familiarity with version control/testing/reviews; AI development experience is preferred. Graduation window is December 2027–June 2028. The title says graduate master's, but minimum qualifications say bachelor's: degree eligibility is internally inconsistent.",
+      "sourceUrl": "https://egug.fa.us2.oraclecloud.com/hcmRestApi/resources/11.13.18.05/recruitingCEJobRequisitionDetails?onlyData=true&finder=ById;Id=26011784",
+      "degree": "Conflicting source: master's title; bachelor's minimum qualifications.",
+      "graduation": "December 2027–June 2028",
+      "deadline": "2026-11-01T00:59:00-04:00",
+      "seasonEvidence": "Official title says Summer Internship Program 2027; body specifies ten-week summer program.",
+      "listingType": "eligibility-conflict-needs-clarification",
+      "roleFamilyGroup": "amex-2027-masters-software",
+      "groupNote": "Distinct city-specific requisition sharing the same role family; do not interpret as a different technical specialization.",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011784",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "checkedAt": "2026-09-06",
+      "source": "NVIDIA public Workday CXS job detail API",
+      "sourceState": "official-page",
+      "jdTextKind": "Independent English summary; not full JD",
+      "openStatus": "Official public job API returned; ongoing review. Exact summer placement is not established.",
+      "sponsorshipEvidence": "Not stated in the retrieved official JD. Do not infer future sponsorship availability.",
+      "cptEvidence": "CPT/F-1 acceptance is not stated in the retrieved official JD; employer confirmation required.",
+      "id": "nvidia-2027-deep-learning",
+      "company": "NVIDIA",
+      "title": "NVIDIA 2027 Internships: Deep Learning",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1",
+      "location": "Santa Clara, CA",
+      "year": 2027,
+      "season": "Unconfirmed",
+      "tracks": [
+        "MLE",
+        "AIE",
+        "SDE"
+      ],
+      "jd": "Multi-team 2027 intake covering deep-learning algorithms and GPU frameworks/libraries such as JAX, PyTorch, TensorFlow, CUDA/cuDNN. Twelve-week full-time internships; programming and systems expectations depend on team. BS/MS/PhD enrollment must continue throughout; graduation month/year required on resume.",
+      "degree": "BS/MS/PhD in EE, CE or related field",
+      "graduation": "Enrolled throughout internship; graduation month/year must be on resume.",
+      "seasonEvidence": "2027 and twelve weeks are explicit; no summer dates in retrieved JD.",
+      "listingType": "2027-season-unconfirmed",
+      "country": "US",
+      "yearBasis": "employer-year-unconfirmed",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "checkedAt": "2026-09-06",
+      "source": "NVIDIA public Workday CXS job detail API",
+      "sourceState": "official-page",
+      "jdTextKind": "Independent English summary; not full JD",
+      "openStatus": "Official public job API returned; ongoing review. Exact summer placement is not established.",
+      "sponsorshipEvidence": "Not stated in the retrieved official JD. Do not infer future sponsorship availability.",
+      "cptEvidence": "CPT/F-1 acceptance is not stated in the retrieved official JD; employer confirmation required.",
+      "id": "nvidia-2027-systems-software",
+      "company": "NVIDIA",
+      "title": "NVIDIA 2027 Internships: Systems Software Engineering",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
+      "location": "Santa Clara, CA",
+      "year": 2027,
+      "season": "Unconfirmed",
+      "tracks": [
+        "SDE",
+        "MLE"
+      ],
+      "jd": "Multi-team 2027 intake for GPU systems software, security, graphics drivers, compilers and firmware. Twelve-week full-time internships. C/C++, CUDA, Linux, operating systems and architecture are team-dependent technical areas. BS/MS/PhD students must remain enrolled throughout and state graduation month/year.",
+      "degree": "BS/MS/PhD in EE, CE or related field",
+      "graduation": "Enrolled throughout internship; graduation month/year must be on resume.",
+      "seasonEvidence": "2027 and twelve weeks are explicit; no summer dates in retrieved JD.",
+      "listingType": "2027-season-unconfirmed",
+      "country": "US",
+      "yearBasis": "employer-year-unconfirmed",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "checkedAt": "2026-09-06",
+      "source": "NVIDIA public Workday CXS job detail API",
+      "sourceState": "official-page",
+      "jdTextKind": "Independent English summary; not full JD",
+      "openStatus": "Official public job API returned; ongoing review. Exact summer placement is not established.",
+      "sponsorshipEvidence": "Not stated in the retrieved official JD. Do not infer future sponsorship availability.",
+      "cptEvidence": "CPT/F-1 acceptance is not stated in the retrieved official JD; employer confirmation required.",
+      "id": "nvidia-2027-autonomous-robotics",
+      "company": "NVIDIA",
+      "title": "NVIDIA 2027 Internships: Autonomous Vehicles and Robotics",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496",
+      "location": "Santa Clara, CA",
+      "year": 2027,
+      "season": "Unconfirmed",
+      "tracks": [
+        "MLE",
+        "AIE",
+        "SDE"
+      ],
+      "jd": "Multi-team 2027 intake covering neural path-generation models, simulation/inference, and Isaac robotics infrastructure. C/C++, Python, CUDA, ROS, computer vision and training frameworks vary by placement. Twelve-week full-time internships; BS/MS/PhD enrollment throughout and graduation month/year on resume required.",
+      "degree": "BS/MS/PhD in EE, CE or related field",
+      "graduation": "Enrolled throughout internship; graduation month/year must be on resume.",
+      "seasonEvidence": "2027 and twelve weeks are explicit; no summer dates in retrieved JD.",
+      "listingType": "2027-season-unconfirmed",
+      "country": "US",
+      "yearBasis": "employer-year-unconfirmed",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "checkedAt": "2026-09-06",
+      "source": "GE Vernova public Workday CXS job detail API",
+      "sourceState": "official-page",
+      "jdTextKind": "Independent English summary; not full JD",
+      "openStatus": "Official public job API returned; minimum seven-day open period is not a closing deadline.",
+      "sponsorshipEvidence": "Only states that legal U.S. work authorization is required; no visa sponsorship promise.",
+      "cptEvidence": "Legal U.S. work authorization required; CPT/F-1 acceptance not specified.",
+      "id": "ge-vernova-gridos-2027",
+      "company": "GE Vernova",
+      "title": "GE Vernova - GridOS Project Engineer Intern - Summer 2027",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---GridOS-Project-Engineer-Intern---Summer-2027_R5050244-2",
+      "location": "Bellevue, WA",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "SDE"
+      ],
+      "jd": "May–August 2027. Test distribution-management applications, build test cases, debug defects and assess deployments. BS/MS in EE/CE or related field plus electric-power distribution fundamentals. Linux proficiency; C# proficiency or interest, Jenkins familiarity, Nexus experience and willingness to learn GitOps/ArgoCD. This is software quality/deployment engineering with power-system knowledge.",
+      "degree": "BS/MS in EE, CE or related field",
+      "graduation": "Not specified.",
+      "seasonEvidence": "Title Summer 2027 and body employment dates May–August 2027.",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---GridOS-Project-Engineer-Intern---Summer-2027_R5050244-2",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "checkedAt": "2026-09-06",
+      "source": "GE Vernova official career/Workday indexed JD; public Workday CXS availability check",
+      "sourceState": "official-page",
+      "jdTextKind": "Independent English summary; not full JD",
+      "openStatus": "Posted deadline passed on September 4, 2026; official job API returned 404 on September 6.",
+      "sponsorshipEvidence": "Not stated in the retrieved official JD. Do not infer future sponsorship availability.",
+      "cptEvidence": "CPT/F-1 acceptance is not stated in the retrieved official JD; employer confirmation required.",
+      "id": "ge-vernova-energy-optimization-2027-expired",
+      "company": "GE Vernova",
+      "title": "GE Vernova - Energy Optimization Software Engineer Intern - Summer 2027",
+      "url": "https://careers.gevernova.com/ge-vernova-energy-optimization-software-engineer-intern-summer-2027/job/R5050022",
+      "location": "Bellevue, WA",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "SDE",
+        "MLE"
+      ],
+      "jd": "Grid Software Solutions internship solving wholesale-energy-market problems. Official indexed qualification accepts master's/PhD study or a credentialed software-accelerator program. Posted closing date September 4, 2026 has passed; public Workday job API now returns 404. Keep for history or a future repost, not as open.",
+      "degree": "Master's/PhD or credentialed software accelerator",
+      "graduation": "Not captured.",
+      "deadline": "2026-09-04",
+      "seasonEvidence": "Official title Summer 2027.",
+      "listingType": "expired-or-unavailable",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://careers.gevernova.com/ge-vernova-energy-optimization-software-engineer-intern-summer-2027/job/R5050022",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "checkedAt": "2026-09-06",
+      "source": "Apple official job/search index; direct page returns navigation-only content",
+      "sourceState": "official-page",
+      "jdTextKind": "Independent English summary; not full JD",
+      "openStatus": "Official indexed JD and current Apple search listing found; full direct-render status not independently confirmed.",
+      "sponsorshipEvidence": "Not stated in the retrieved official JD. Do not infer future sponsorship availability.",
+      "cptEvidence": "CPT/F-1 acceptance is not stated in the retrieved official JD; employer confirmation required.",
+      "id": "apple-adsp-summer-2027",
+      "company": "Apple",
+      "title": "Applied Data Solutions Program, Internships – Summer 2027",
+      "url": "https://jobs.apple.com/en-us/details/200673612-0836/applied-data-solutions-program-internships-summer-2027",
+      "location": "Cupertino, CA / Austin, TX",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "AIE",
+        "SDE",
+        "MLE"
+      ],
+      "jd": "Summer 2027 multi-team program spanning software engineering, machine learning, data science and AI development. Build production systems, predictive/generative-AI solutions and real-time/batch decision pipelines. Accepts undergraduate/graduate students in CS/data/ML/AI or related fields; proficiency in a language such as Python, Scala, Java or C++. Resume and unofficial transcript requested.",
+      "degree": "Undergraduate/graduate",
+      "graduation": "Not stated in retrieved source.",
+      "seasonEvidence": "Official title and description explicitly Summer 2027.",
+      "listingType": "multi-team-intake",
+      "sourceUrl": "https://jobs.apple.com/tr-tr/details/200673612-0836/applied-data-solutions-program-internships-summer-2027?team=STDNT",
+      "groupNote": "Austin listing 200673612-0157 is the same program; not double-counted.",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://jobs.apple.com/en-us/details/200673612-0836/applied-data-solutions-program-internships-summer-2027",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "company": "Waymo",
+      "location": "San Francisco, CA",
+      "country": "US",
+      "workMode": "Hybrid onsite (page metadata also says onsite)",
+      "season": "Summer",
+      "year": 2027,
+      "authorization": "CPT acceptance and future sponsorship are not stated in the public JD; verify.",
+      "deadline": null,
+      "deadlineNote": "Rolling review until filled; no fixed deadline stated.",
+      "sourceType": "Employer official careers",
+      "sourceState": "official-page",
+      "sourceMethod": "Official role page read; Apply now entry visible.",
+      "openStatus": "Application entry visible",
+      "openConfidence": "high",
+      "checkedAt": "2026-09-06",
+      "jdTextKind": "Independent concise summary of official JD; not a full copy",
+      "requirementsClassified": true,
+      "companyApplicationLimit": 3,
+      "companyApplicationLimitNote": "Posting asks candidates to apply to their top three roles; each requires a separate application.",
+      "id": "waymo-ds-commercialization-5349-2027",
+      "title": "2027 Summer Intern, MS/PhD, Data Science - Commercialization Testing",
+      "tracks": [
+        "MLE"
+      ],
+      "url": "https://careers.withwaymo.com/jobs/2027-summer-intern-ms-phd-data-science-commercialization-testing-san-francisco-california-united-states",
+      "degree": "Enrolled in a master's or PhD in a highly quantitative field.",
+      "graduation": "No explicit graduation window stated.",
+      "pay": "MS $70/h; PhD $85/h",
+      "summary": "Build Bayesian forecasts and predictive models for vehicle/fleet testing; analyze logs and help design experiments.",
+      "skills": [
+        "Python",
+        "SQL",
+        "Statistics",
+        "Bayesian modeling",
+        "Predictive analytics"
+      ],
+      "requiredSkills": [
+        "Production-quality Python",
+        "SQL for large databases",
+        "Predictive analytics, Bayesian modeling and statistical inference",
+        "Communicating quantitative limitations"
+      ],
+      "preferredSkills": [
+        "Traffic or mobility analytics",
+        "Autonomous vehicle simulation and systems engineering",
+        "Survival analysis or extreme value theory"
+      ],
+      "required": "Graduate quantitative study; production Python, SQL and statistical modeling.",
+      "seasonEvidence": "Official title explicitly says Summer 2027.",
+      "sources": [
+        {
+          "title": "Waymo official job posting",
+          "url": "https://careers.withwaymo.com/jobs/2027-summer-intern-ms-phd-data-science-commercialization-testing-san-francisco-california-united-states"
+        }
+      ],
+      "jd": "Build Bayesian forecasts and predictive models for vehicle/fleet testing; analyze logs and help design experiments.\nEducation: Enrolled in a master's or PhD in a highly quantitative field.\nGraduation: No explicit graduation window stated.\nRequired: Graduate quantitative study; production Python, SQL and statistical modeling.\nAuthorization: CPT acceptance and future sponsorship are not stated in the public JD; verify.\nRequired skill: Production-quality Python\nRequired skill: SQL for large databases\nRequired skill: Predictive analytics, Bayesian modeling and statistical inference\nRequired skill: Communicating quantitative limitations\nPreferred: Traffic or mobility analytics\nPreferred: Autonomous vehicle simulation and systems engineering\nPreferred: Survival analysis or extreme value theory",
+      "yearBasis": "employer-text",
+      "source": "Employer official careers",
+      "officialVerifiedAt": "2026-09-06",
+      "applicationLimit": 3,
+      "limitGroup": "Waymo",
+      "status": "Not started"
+    },
+    {
+      "company": "Waymo",
+      "location": "San Francisco, CA",
+      "country": "US",
+      "workMode": "Hybrid onsite (page metadata also says onsite)",
+      "season": "Summer",
+      "year": 2027,
+      "authorization": "CPT acceptance and future sponsorship are not stated in the public JD; verify.",
+      "deadline": null,
+      "deadlineNote": "Rolling review until filled; no fixed deadline stated.",
+      "sourceType": "Employer official careers",
+      "sourceState": "official-page",
+      "sourceMethod": "Official role page read; Apply now entry visible.",
+      "openStatus": "Application entry visible",
+      "openConfidence": "high",
+      "checkedAt": "2026-09-06",
+      "jdTextKind": "Independent concise summary of official JD; not a full copy",
+      "requirementsClassified": true,
+      "companyApplicationLimit": 3,
+      "companyApplicationLimitNote": "Posting asks candidates to apply to their top three roles; each requires a separate application.",
+      "id": "waymo-ms-swe-behavior-5361-2027",
+      "title": "2027 Summer Intern, MS, Software Engineering, Behavior Test",
+      "tracks": [
+        "SDE",
+        "MLE"
+      ],
+      "url": "https://careers.withwaymo.com/jobs/2027-summer-intern-ms-software-engineering-behavior-test-san-francisco-california-united-states",
+      "degree": "Currently enrolled in a master's in engineering, CS or a related technical field.",
+      "graduation": "No explicit graduation window stated.",
+      "pay": "MS $70/h",
+      "summary": "Create simulation tests and fleet fault dashboards; automate versioned test coverage using Python and SQL.",
+      "skills": [
+        "Python",
+        "SQL",
+        "Testing",
+        "Data analysis"
+      ],
+      "requiredSkills": [
+        "Python and SQL data analysis/modeling",
+        "Understanding complex systems"
+      ],
+      "preferredSkills": [
+        "Autonomous vehicles",
+        "Systems engineering"
+      ],
+      "required": "Technical master's enrollment and data analysis/modeling experience.",
+      "seasonEvidence": "Official title explicitly says Summer 2027.",
+      "sources": [
+        {
+          "title": "Waymo official job posting",
+          "url": "https://careers.withwaymo.com/jobs/2027-summer-intern-ms-software-engineering-behavior-test-san-francisco-california-united-states"
+        }
+      ],
+      "jd": "Create simulation tests and fleet fault dashboards; automate versioned test coverage using Python and SQL.\nEducation: Currently enrolled in a master's in engineering, CS or a related technical field.\nGraduation: No explicit graduation window stated.\nRequired: Technical master's enrollment and data analysis/modeling experience.\nAuthorization: CPT acceptance and future sponsorship are not stated in the public JD; verify.\nRequired skill: Python and SQL data analysis/modeling\nRequired skill: Understanding complex systems\nPreferred: Autonomous vehicles\nPreferred: Systems engineering",
+      "yearBasis": "employer-text",
+      "source": "Employer official careers",
+      "officialVerifiedAt": "2026-09-06",
+      "applicationLimit": 3,
+      "limitGroup": "Waymo",
+      "status": "Not started"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
+      "location": "San Francisco, CA",
+      "jd": "Ship AI data pipelines, model evaluations, agentic applications and large-scale contributor tools.\nEducation: JD specifies a bachelor's degree or equivalent in a relevant field with Fall 2027/Spring 2028 graduation. It does not explicitly state master's eligibility.\nGraduation: Fall 2027 or Spring 2028, tied to the listed bachelor's/equivalent requirement.\nRequired: Prior software internship, product delivery, large-data experience and specified graduation window.\nAuthorization: Not stated in public JD; verify CPT and future sponsorship.\nRequired skill: Product/full-stack engineering\nRequired skill: Previous CS/software internship\nRequired skill: Processing large data volumes\nRequired skill: Python, TypeScript, React and/or MongoDB\nPreferred: LLMs, evaluation or agentic systems\nPreferred: Open-source contributions or shipped portfolio",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "AIE",
+        "SDE",
+        "MLE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "Employer official ATS",
+      "sourceState": "official-page",
+      "jdTextKind": "Independent concise summary; not full JD",
+      "apiUrl": "https://boards-api.greenhouse.io/v1/boards/scaleai/jobs?content=true",
+      "seasonEvidenceType": "summer-only",
+      "sponsorshipEvidence": "unknown",
+      "alternateSources": [],
+      "contentHash": "09e94950bca5170f8efabd0dfac5b6d89c181e13d704e4d764533f573486b685",
+      "id": "scaleai-swe-4730845005-2027",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
+          "title": "Employer posting"
+        }
+      ],
+      "workMode": "San Francisco internship",
+      "degree": "JD specifies a bachelor's degree or equivalent in a relevant field with Fall 2027/Spring 2028 graduation. It does not explicitly state master's eligibility.",
+      "graduation": "Fall 2027 or Spring 2028, tied to the listed bachelor's/equivalent requirement.",
+      "authorization": "Not stated in public JD; verify CPT and future sponsorship.",
+      "summary": "Ship AI data pipelines, model evaluations, agentic applications and large-scale contributor tools.",
+      "skills": [
+        "Python",
+        "TypeScript",
+        "React",
+        "MongoDB",
+        "LLM",
+        "Evaluation",
+        "Data pipelines"
+      ],
+      "requiredSkills": [
+        "Product/full-stack engineering",
+        "Previous CS/software internship",
+        "Processing large data volumes",
+        "Python, TypeScript, React and/or MongoDB"
+      ],
+      "preferredSkills": [
+        "LLMs, evaluation or agentic systems",
+        "Open-source contributions or shipped portfolio"
+      ],
+      "required": "Prior software internship, product delivery, large-data experience and specified graduation window.",
+      "pay": "Not stated in the read JD.",
+      "deadline": null,
+      "deadlineNote": "No fixed deadline stated; 90-day reconsideration cooldown for the same role.",
+      "applicationCooldownDays": 90,
+      "sourceType": "Employer official ATS",
+      "sourceMethod": "Official Greenhouse JD read; application entry present.",
+      "openStatus": "Application entry visible",
+      "openConfidence": "high",
+      "requirementsClassified": true,
+      "firstSeenAt": null,
+      "lastSeenAt": null,
+      "status": "Not started"
+    },
+    {
+      "company": "Belvedere Trading",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0",
+      "location": "Chicago, IL",
+      "jd": "Develop low-latency trading software across design, testing and deployment in a collaborative engineering team.\nEducation: Posting targets college juniors; master's eligibility is not explicitly confirmed.\nGraduation: December 2027 or Spring 2028.\nRequired: Chicago availability; specified graduation date. College-junior targeting requires a master's applicant to verify eligibility.\nAuthorization: Official posting says Sponsorship: Yes; confirm CPT handling and scope for this applicant.\nRequired skill: Software engineering and teamwork\nRequired skill: Onsite availability in Chicago",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "SDE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "Employer official ATS",
+      "sourceState": "official-page",
+      "jdTextKind": "Independent concise summary; not full JD",
+      "apiUrl": "https://api.lever.co/v0/postings/belvederetrading?mode=json",
+      "seasonEvidenceType": "summer-only",
+      "sponsorshipEvidence": "Sponsorship: Yes",
+      "alternateSources": [],
+      "contentHash": "c2ea74c77fd62ddc9085398d8994bedaa871a562c77af1f6fcec62babe108698",
+      "id": "belvedere-swe-10746b3d-2027",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0",
+          "title": "Employer posting"
+        }
+      ],
+      "workMode": "Onsite",
+      "degree": "Posting targets college juniors; master's eligibility is not explicitly confirmed.",
+      "graduation": "December 2027 or Spring 2028.",
+      "authorization": "Official posting says Sponsorship: Yes; confirm CPT handling and scope for this applicant.",
+      "sponsorship": "yes",
+      "summary": "Develop low-latency trading software across design, testing and deployment in a collaborative engineering team.",
+      "skills": [
+        "Software development",
+        "Testing",
+        "Performance optimization"
+      ],
+      "requiredSkills": [
+        "Software engineering and teamwork",
+        "Onsite availability in Chicago"
+      ],
+      "preferredSkills": [],
+      "required": "Chicago availability; specified graduation date. College-junior targeting requires a master's applicant to verify eligibility.",
+      "pay": "$130,000 annualized stated rate; not total internship pay.",
+      "deadline": null,
+      "deadlineNote": "No fixed deadline stated.",
+      "sourceType": "Employer official ATS",
+      "sourceMethod": "Official Lever posting read; apply entry present.",
+      "openStatus": "Application entry visible",
+      "openConfidence": "high",
+      "requirementsClassified": false,
+      "firstSeenAt": null,
+      "lastSeenAt": null,
+      "status": "Not started"
+    },
+    {
+      "company": "Sierra",
+      "title": "Intern, Agent Development (Summer 2027)",
+      "url": "https://jobs.ashbyhq.com/Sierra/34b31b67-268c-4270-b48f-72e59064c96e",
+      "location": "San Francisco, CA",
+      "jd": "Summer 2027 agent-development internship in San Francisco. Build and ship production AI agents and product features. Current bachelor’s or master’s students in computer science or a related field graduating from December 2027 through June 2028 are in scope. Relevant experience includes deployed AI or LLM projects, evaluation tools, RAG and prompting; React, TypeScript and Go are helpful. The candidate’s December 2027 master’s completion fits the stated graduation window. Sponsorship policy is not specified in this posting.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "AIE",
+        "SDE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "ashby:Sierra",
+      "sourceState": "official-page",
+      "jdTextKind": "verified-employer-jd-summary",
+      "apiUrl": "https://api.ashbyhq.com/posting-api/job-board/Sierra",
+      "seasonEvidenceType": "summer-only",
+      "sponsorshipEvidence": "unknown",
+      "alternateSources": [],
+      "contentHash": "de371ae138b12b1bd4f7be7abe56f9856fa1dcb85288127d05181a7e8a7c9827",
+      "id": "catalog-b979de22d4e0777eae",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://jobs.ashbyhq.com/Sierra/34b31b67-268c-4270-b48f-72e59064c96e",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "company": "Circleback",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f",
+      "location": "San Francisco",
+      "jd": "Summer 2027 software engineering internship in San Francisco. Build database models, APIs and applications across React, Electron and React Native, including AI search, transcription and automation features. Relevant projects and the ability to ship practical software matter. The employer’s YC listing identifies junior-or-later students and states that sponsorship is available; it lists PostgreSQL, TypeScript, React and React Native. Confirm the specific internship authorization and post-graduation sponsorship process with the recruiter.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "AIE",
+        "SDE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "ashby:circleback",
+      "sourceState": "official-page",
+      "jdTextKind": "verified-employer-jd-summary",
+      "apiUrl": "https://api.ashbyhq.com/posting-api/job-board/circleback",
+      "seasonEvidenceType": "summer-only",
+      "sponsorshipEvidence": "Employer YC listing: sponsorship available; visa type and future conversion policy unspecified.",
+      "alternateSources": [
+        "https://www.ycombinator.com/companies/circleback/jobs/lulIPMP-software-engineering-intern-summer-2027"
+      ],
+      "contentHash": "2e514d31bc1082f8faa23f67f35fd61c92bfbb168fce5f217a610eaffcf0682d",
+      "id": "catalog-5849d7272d5e290b1d",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "company": "CTGT",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155",
+      "location": "San Francisco",
+      "jd": "In-person San Francisco software engineering internship lasting 10–12 weeks between May/June and August/September 2027. Build full-stack systems supporting reliable LLM deployment and governance. Python or JavaScript, Git and cloud familiarity are relevant. The employer explicitly offers US visa sponsorship. The current ATS requirement names students pursuing a bachelor’s degree, while the YC school-year label says any; a current master’s student should clarify the degree requirement.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "AIE",
+        "SDE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "ashby:ctgt",
+      "sourceState": "official-page",
+      "jdTextKind": "verified-employer-jd-summary",
+      "apiUrl": "https://api.ashbyhq.com/posting-api/job-board/ctgt",
+      "seasonEvidenceType": "summer-only",
+      "sponsorshipEvidence": "Employer explicitly offers US visa sponsorship; exact visa category unspecified.",
+      "alternateSources": [
+        "https://www.ycombinator.com/companies/ctgt/jobs/b3hTkK4-software-engineering-intern-summer-2027"
+      ],
+      "contentHash": "3ebd8f8efd81ed5f4fdfc40b5b6d278a2f0ea36e68d99419df1357b460be155e",
+      "id": "catalog-d1150bb04bcc224859",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "company": "Cybernetic Labs / Netic",
+      "title": "Forward Deployed Engineer (FDE) - Intern - 2026-2027",
+      "url": "https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c",
+      "location": "San Francisco",
+      "jd": "Forward-deployed engineering internship in San Francisco with a 12-week start window spanning winter 2026 through summer 2027. Build customer-facing multimodal agents and production integrations. Relevant skills include Python with asyncio or FastAPI, TypeScript with Node or React, LLM and speech APIs, RAG, vector databases, evaluation and monitoring. The role expects practical production experience. Summer 2027 is explicitly one available start period; confirm the exact cohort and sponsorship.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "AIE",
+        "SDE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "ashby:netic",
+      "sourceState": "official-page",
+      "jdTextKind": "verified-employer-jd-summary",
+      "apiUrl": "https://api.ashbyhq.com/posting-api/job-board/netic",
+      "seasonEvidenceType": "summer-2027-explicit-in-flexible-window",
+      "sponsorshipEvidence": "unknown",
+      "alternateSources": [],
+      "contentHash": "2a48743c94155b12504443ca3b4c9fd1bedf80d2536a0c40568260afcf33342b",
+      "id": "catalog-cd2aebe8a348c48e3f",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "company": "Cybernetic Labs / Netic",
+      "title": "Full-Stack Software Engineer (Product) - Intern - 2026-2027",
+      "url": "https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef",
+      "location": "San Francisco",
+      "jd": "Full-stack product engineering internship in San Francisco. The 12-week program accepts starts from winter 2026 through summer 2027. Work across user-facing interfaces, backend systems, databases and cloud deployment with React, TypeScript and Python. Experience shipping end-to-end products is valuable; LLMs, embeddings and RAG are additional useful experience. Verify that Summer 2027 seats remain available and ask about sponsorship.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "AIE",
+        "SDE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "ashby:netic",
+      "sourceState": "official-page",
+      "jdTextKind": "verified-employer-jd-summary",
+      "apiUrl": "https://api.ashbyhq.com/posting-api/job-board/netic",
+      "seasonEvidenceType": "summer-2027-explicit-in-flexible-window",
+      "sponsorshipEvidence": "unknown",
+      "alternateSources": [],
+      "contentHash": "70346f6fd84db5007223e7364db459e638dd76a5414431909d42e38200b20c53",
+      "id": "catalog-c4dbbafd8f5f1d78cc",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "company": "Cybernetic Labs / Netic",
+      "title": "Software Engineer (Agent Platform) - Intern - 2026-2027",
+      "url": "https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7",
+      "location": "San Francisco",
+      "jd": "Agent-platform engineering internship in San Francisco, lasting 12 weeks with start dates from winter 2026 through summer 2027. Develop multi-step or multi-agent orchestration, evaluation loops, guardrails, rollback mechanisms and human checkpoints. The stack includes Python/FastAPI and TypeScript/Node/React. Coursework or projects involving LLMs, RAG, MCP or LangChain can be relevant; production experience is not mandatory for this role. Confirm the specific summer cohort and work-authorization policy.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "AIE",
+        "SDE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "ashby:netic",
+      "sourceState": "official-page",
+      "jdTextKind": "verified-employer-jd-summary",
+      "apiUrl": "https://api.ashbyhq.com/posting-api/job-board/netic",
+      "seasonEvidenceType": "summer-2027-explicit-in-flexible-window",
+      "sponsorshipEvidence": "unknown",
+      "alternateSources": [],
+      "contentHash": "f7d839dc36848b6df7e934eed76349e16518c997cb4ad11bbc6a731ee6aa976f",
+      "id": "catalog-4ed76b4e2d70df0ee8",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "company": "Melius",
+      "title": "Software Engineering Intern [Spring/Summer 2027]",
+      "url": "https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280",
+      "location": "New York City",
+      "jd": "New York software engineering internship explicitly covering Spring/Summer 2027. Build an agent-based product, including tool calling, canvas or timeline interfaces, semantic search and evaluation traces. Computer science or equivalent background, shipped projects and TypeScript experience or willingness to learn are relevant. React Flow and collaborative editing with Yjs/CRDTs are useful context. Confirm Summer 2027 availability and the employer’s sponsorship policy.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "AIE",
+        "SDE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "ashby:melius",
+      "sourceState": "official-page",
+      "jdTextKind": "verified-employer-jd-summary",
+      "apiUrl": "https://api.ashbyhq.com/posting-api/job-board/melius",
+      "seasonEvidenceType": "spring-or-summer-2027",
+      "sponsorshipEvidence": "unknown",
+      "alternateSources": [],
+      "contentHash": "831e1159934d334a658555e1da8637cf7d012e3f9c4773661e4403f60ac659a2",
+      "id": "catalog-68604b724181f29f62",
+      "country": "Unconfirmed",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "company": "Primer",
+      "title": "Spring/Summer 2027 Engineering Intern",
+      "url": "https://jobs.ashbyhq.com/primer/edd1667b-6323-444a-adc1-40bae5b9a3b0",
+      "location": "San Francisco",
+      "jd": "Spring/Summer 2027 engineering internship in San Francisco with five days per week on site. Work on education software using TypeScript, Node, GraphQL, Prisma, PostgreSQL, Next.js, React and Relay. Strong engineering fundamentals and practical implementation ability are relevant. The employer states that J-1 and F-1 visa sponsorship is available. This supports discussing the summer placement but does not itself establish future H-1B or permanent employment sponsorship.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "SDE",
+        "AIE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "ashby:primer",
+      "sourceState": "official-page",
+      "jdTextKind": "verified-employer-jd-summary",
+      "apiUrl": "https://api.ashbyhq.com/posting-api/job-board/primer",
+      "seasonEvidenceType": "spring-or-summer-2027",
+      "sponsorshipEvidence": "Employer states J-1 and F-1 sponsorship available; future full-time sponsorship unknown.",
+      "alternateSources": [],
+      "contentHash": "0b2c854a3f8471d0bbaee5cf6e0d98d395fca3ee2aa1fb0e5eb31f8453a52dcc",
+      "id": "catalog-97b9ffe4f3e9b19ea5",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://jobs.ashbyhq.com/primer/edd1667b-6323-444a-adc1-40bae5b9a3b0",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "company": "Persona AI",
+      "title": "Autonomy Software Engineering Internship, World Modeling",
+      "url": "https://jobs.ashbyhq.com/persona.ai/fd514a3f-4138-48d5-9862-05ff74a4ca08",
+      "location": "Houston, TX",
+      "jd": "Houston on-site world-modeling internship. Build industrial video datasets, synthetic-data pipelines, world-model fine-tuning, autonomy evaluation and regression tests. Bachelor’s, master’s and doctoral students in robotics, computer science, ML or related fields are eligible to apply. Expected experience includes Python, PyTorch, model training or evaluation, VLM/LLM or video models, data pipelines, Linux, Git, Docker and GPU infrastructure. The program explicitly includes May–August Summer 2027 alongside other cohorts. Confirm summer capacity and sponsorship.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "MLE",
+        "AIE",
+        "SDE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "ashby:persona.ai",
+      "sourceState": "official-page",
+      "jdTextKind": "verified-employer-jd-summary",
+      "apiUrl": "https://api.ashbyhq.com/posting-api/job-board/persona.ai",
+      "seasonEvidenceType": "summer-2027-explicit-multi-cohort",
+      "sponsorshipEvidence": "unknown",
+      "alternateSources": [],
+      "contentHash": "13cda687e8fc51a9185375dda99d6bb831f6c303847304713cfe6fca3c690f6e",
+      "id": "catalog-6afdd604f689ea1598",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://jobs.ashbyhq.com/persona.ai/fd514a3f-4138-48d5-9862-05ff74a4ca08",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "company": "Persona AI",
+      "title": "Machine Learning Internship, Manipulation",
+      "url": "https://jobs.ashbyhq.com/persona.ai/ed9a7425-9798-471e-b46a-fefd59570630",
+      "location": "Houston, TX",
+      "jd": "Houston on-site machine-learning internship for humanoid manipulation. Develop ML models and infrastructure, evaluate real-world performance and support manipulation, navigation, locomotion and perception. Relevant experience includes a deep-learning framework, cloud infrastructure, robot learning such as behavior cloning or reinforcement learning, and deploying neural models beyond a notebook. A master’s or PhD is preferred rather than required. The program lists May–August Summer 2027 among its cohorts. Confirm summer capacity and sponsorship.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "MLE",
+        "AIE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "ashby:persona.ai",
+      "sourceState": "official-page",
+      "jdTextKind": "verified-employer-jd-summary",
+      "apiUrl": "https://api.ashbyhq.com/posting-api/job-board/persona.ai",
+      "seasonEvidenceType": "summer-2027-explicit-multi-cohort",
+      "sponsorshipEvidence": "unknown",
+      "alternateSources": [],
+      "contentHash": "7f96664b6e5e87766507babdfbc158b9204fcc874f4b836c72278c830b4b3f29",
+      "id": "catalog-326795ca80328d1f11",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://jobs.ashbyhq.com/persona.ai/ed9a7425-9798-471e-b46a-fefd59570630",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "company": "Persona AI",
+      "title": "Robotics Software Internship, Manipulation",
+      "url": "https://jobs.ashbyhq.com/persona.ai/1e8d195c-e28e-423d-a06a-9eeb401ed4fc",
+      "location": "Houston, TX",
+      "jd": "Houston on-site robotics software internship in manipulation. Contribute to grasping, motion planning, controls, simulation and integration with whole-body robot behavior. Bachelor’s, master’s or doctoral students in relevant technical fields are accepted. Coursework or project experience in robot control/manipulation, C++ or Python, planning and optimization, robotics tools and basic vision/deep learning is relevant. The program explicitly offers a May–August Summer 2027 cohort. Confirm availability and sponsorship.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "SDE",
+        "MLE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "ashby:persona.ai",
+      "sourceState": "official-page",
+      "jdTextKind": "verified-employer-jd-summary",
+      "apiUrl": "https://api.ashbyhq.com/posting-api/job-board/persona.ai",
+      "seasonEvidenceType": "summer-2027-explicit-multi-cohort",
+      "sponsorshipEvidence": "unknown",
+      "alternateSources": [],
+      "contentHash": "dfb998cc9600ad2c95aa0338bf197bcd5208368d44bee4d4860359bc3debac7e",
+      "id": "catalog-12f6f7c94f1071eae0",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://jobs.ashbyhq.com/persona.ai/1e8d195c-e28e-423d-a06a-9eeb401ed4fc",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "company": "Skydio",
+      "title": "Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027",
+      "url": "https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9",
+      "location": "San Mateo, California, United States",
+      "jd": "Summer 2027 autonomy internship in San Mateo focused on computer vision and deep learning. Develop research prototypes and turn successful ideas into production autonomy software, including performance and reliability work. Relevant areas include vision, deep learning, planning, controls, graphics and distributed systems. C++ and/or Python plus PyTorch are relevant implementation skills. This is the US computer-vision/deep-learning role; it is distinct from Skydio’s Zurich doctoral research opening. Sponsorship is not established by this posting.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "MLE",
+        "SDE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "ashby:skydio",
+      "sourceState": "official-page",
+      "jdTextKind": "verified-employer-jd-summary",
+      "apiUrl": "https://api.ashbyhq.com/posting-api/job-board/skydio",
+      "seasonEvidenceType": "summer-only",
+      "sponsorshipEvidence": "unknown",
+      "alternateSources": [],
+      "contentHash": "7d5086d876cdbbaa6ac2fd3df9e9b6a7d393c7b1a526294cdd5f8fa2aa069593",
+      "id": "catalog-e023255266aab90367",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "company": "Sage",
+      "title": "Software Engineering Intern (Edge) – Summer 2027",
+      "url": "https://job-boards.greenhouse.io/sage49/jobs/6131191004",
+      "location": "New York, New York, United States",
+      "jd": "New York edge software internship running June 7–August 13, 2027. Work on Java backend services, Linux-based connected devices, telemetry and fleet tools. Relevant degree areas include computer science, computer engineering and electrical engineering. Java, Python or another object-oriented language, Linux familiarity and interest in hardware are useful; AWS is a plus. The official JD does not state sponsorship. A supplemental Wellfound badge indicates no sponsorship, so retain that uncertainty for recruiter review.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "SDE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "greenhouse:sage49",
+      "sourceState": "official-page",
+      "jdTextKind": "verified-employer-jd-summary",
+      "apiUrl": "https://boards-api.greenhouse.io/v1/boards/sage49/jobs?content=true",
+      "seasonEvidenceType": "summer-only",
+      "sponsorshipEvidence": "unknown",
+      "alternateSources": [],
+      "contentHash": "9a58f04033bad97ab1edb1ed3b4fdf9c2b80980d3cb601756e13adc27244f5cc",
+      "id": "catalog-a6b6ac985f0d858216",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://job-boards.greenhouse.io/sage49/jobs/6131191004",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "company": "Sage",
+      "title": "Software Engineering Intern (Full Stack) – Summer 2027",
+      "url": "https://job-boards.greenhouse.io/sage49/jobs/6131185004",
+      "location": "New York, New York, United States",
+      "jd": "New York full-stack software internship running June 7–August 13, 2027. Develop React/TypeScript interfaces and Java backend services, with testing, deployment and product collaboration. Candidates should know at least one programming language such as TypeScript, JavaScript, Java or Python. React, Node, JVM experience and SQL are useful additions. Sponsorship is unstated in the official text; supplemental marketplace badges should be checked with the employer.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "SDE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "greenhouse:sage49",
+      "sourceState": "official-page",
+      "jdTextKind": "verified-employer-jd-summary",
+      "apiUrl": "https://boards-api.greenhouse.io/v1/boards/sage49/jobs?content=true",
+      "seasonEvidenceType": "summer-only",
+      "sponsorshipEvidence": "unknown",
+      "alternateSources": [],
+      "contentHash": "5e4256b173dde328c2367c8e873d3ea0aa472a9c454aa26bc9192bb9463ede97",
+      "id": "catalog-fa79531866d8c2ad03",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://job-boards.greenhouse.io/sage49/jobs/6131185004",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "company": "Verkada",
+      "title": "Backend Software Engineering Intern 2027",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5210813007",
+      "location": "San Mateo, CA United States",
+      "jd": "San Mateo backend software engineering internship for Winter or Summer 2027. Bachelor’s and master’s students graduating by June 2028 are in scope. Build APIs and distributed backend systems; Python or Go, operating systems and distributed systems fundamentals are relevant, with AWS and Docker useful. The employer states that it sponsors employment visas and can take over sponsorship. Confirm the summer term and the specific visa process.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "SDE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "greenhouse:verkada",
+      "sourceState": "official-page",
+      "jdTextKind": "verified-employer-jd-summary",
+      "apiUrl": "https://boards-api.greenhouse.io/v1/boards/verkada/jobs?content=true",
+      "seasonEvidenceType": "winter-or-summer-2027",
+      "sponsorshipEvidence": "Employer states employment-visa sponsorship and transfer support.",
+      "alternateSources": [],
+      "contentHash": "ea5ebb4694f347b05bfc97bd2236df47b9d853edffd098ad8d15640dcc0d7f96",
+      "id": "catalog-e809507e476af53c89",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://job-boards.greenhouse.io/verkada/jobs/5210813007",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "company": "Verkada",
+      "title": "Frontend Software Engineering Intern 2027",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5210942007",
+      "location": "San Mateo, CA United States",
+      "jd": "San Mateo frontend engineering internship for Winter or Summer 2027. Bachelor’s and master’s students graduating by June 2028 are eligible by the stated degree window. Work on product interfaces with JavaScript or TypeScript and a framework such as React, Angular or Vue. The employer states that it sponsors employment visas and can take over sponsorship. Confirm Summer 2027 start dates and visa details.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "SDE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "greenhouse:verkada",
+      "sourceState": "official-page",
+      "jdTextKind": "verified-employer-jd-summary",
+      "apiUrl": "https://boards-api.greenhouse.io/v1/boards/verkada/jobs?content=true",
+      "seasonEvidenceType": "winter-or-summer-2027",
+      "sponsorshipEvidence": "Employer states employment-visa sponsorship and transfer support.",
+      "alternateSources": [],
+      "contentHash": "7c71bfd58bcd7b8a3639939657e11e4184732cd74e2fe207bd12e7a1c972cc37",
+      "id": "catalog-a5527ff751178aaf10",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://job-boards.greenhouse.io/verkada/jobs/5210942007",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "company": "Verkada",
+      "title": "Security Software Engineering Intern 2027",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5213881007",
+      "location": "San Mateo, CA United States",
+      "jd": "San Mateo security software engineering internship for Winter or Summer 2027. The stated student window includes bachelor’s and master’s students graduating by June 2028. Build security-related systems and APIs, using Python or Go and distributed-systems knowledge. The employer explicitly states that employment-visa sponsorship is available. Confirm the summer cohort, required security background and visa process.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "SDE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "greenhouse:verkada",
+      "sourceState": "official-page",
+      "jdTextKind": "verified-employer-jd-summary",
+      "apiUrl": "https://boards-api.greenhouse.io/v1/boards/verkada/jobs?content=true",
+      "seasonEvidenceType": "winter-or-summer-2027",
+      "sponsorshipEvidence": "Employer states employment-visa sponsorship and transfer support.",
+      "alternateSources": [],
+      "contentHash": "ea5ebb4694f347b05bfc97bd2236df47b9d853edffd098ad8d15640dcc0d7f96",
+      "id": "catalog-afc23d6f78defb55b6",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://job-boards.greenhouse.io/verkada/jobs/5213881007",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "company": "Garda Capital Partners",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/gardacp/jobs/6146213004",
+      "location": "New York, New York, United States",
+      "jd": "New York Summer 2027 software development internship supporting investment-management technology and enterprise applications. Bachelor’s or master’s students in computer science, engineering, mathematics, quantitative finance or related fields are in scope. Python and common libraries, SQL, and a statically typed programming language are relevant. Assess the specific engineering responsibilities against the candidate’s project evidence; sponsorship is not specified.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "SDE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "greenhouse:gardacp",
+      "sourceState": "official-page",
+      "jdTextKind": "verified-employer-jd-summary",
+      "apiUrl": "https://boards-api.greenhouse.io/v1/boards/gardacp/jobs?content=true",
+      "seasonEvidenceType": "summer-only",
+      "sponsorshipEvidence": "unknown",
+      "alternateSources": [],
+      "contentHash": "757140641df91e1b77e306ab42865dac6214831035b63d50ee2254ee23c02355",
+      "id": "catalog-90eec30d7f381fb216",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://job-boards.greenhouse.io/gardacp/jobs/6146213004",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "company": "HP IQ",
+      "title": "Software Engineering Intern, AML Platform (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/hpiq/jobs/6114781004",
+      "location": "San Francisco, CA",
+      "jd": "Summer 2027 AML-platform engineering internship. Develop software and infrastructure supporting AI/ML workflows. Candidates may be pursuing a computer science or engineering degree or have equivalent practical experience. Relevant coursework or projects include ML, systems engineering or software development; Python and tools such as PyTorch, TensorFlow, Hugging Face or FastAPI are relevant. The program runs during the May/June–August/September 2027 period. Sponsorship is not specified.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "MLE",
+        "AIE",
+        "SDE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "greenhouse:hpiq",
+      "sourceState": "official-page",
+      "jdTextKind": "verified-employer-jd-summary",
+      "apiUrl": "https://boards-api.greenhouse.io/v1/boards/hpiq/jobs?content=true",
+      "seasonEvidenceType": "summer-only",
+      "sponsorshipEvidence": "unknown",
+      "alternateSources": [],
+      "contentHash": "94bc6d69d33e77de242c1ed8dbc905462c2566b49cced82aad85ea2c01d95105",
+      "id": "catalog-47091431ca0ec0eb21",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://job-boards.greenhouse.io/hpiq/jobs/6114781004",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "company": "HP IQ",
+      "title": "Software Engineering Intern, Connectivity (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/hpiq/jobs/6176783004",
+      "location": "San Francisco, CA",
+      "jd": "Summer 2027 connectivity software internship. Develop on-device firmware and systems for wireless device experiences, including Wi-Fi and Bluetooth. C, C++ or Python are relevant implementation languages. Work involves connected devices and testing protocol behavior, so assess hardware and low-level systems experience rather than treating general Python work as equivalent. Confirm the summer dates, exact degree requirements and sponsorship.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "SDE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "greenhouse:hpiq",
+      "sourceState": "official-page",
+      "jdTextKind": "verified-employer-jd-summary",
+      "apiUrl": "https://boards-api.greenhouse.io/v1/boards/hpiq/jobs?content=true",
+      "seasonEvidenceType": "summer-only",
+      "sponsorshipEvidence": "unknown",
+      "alternateSources": [],
+      "contentHash": "cc23525907500d25d5683d8edc733fc2189a94103e18029b8e02bf68d242ebe0",
+      "id": "catalog-7d8f08f01fa1a0527e",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://job-boards.greenhouse.io/hpiq/jobs/6176783004",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "company": "HP IQ",
+      "title": "Software Engineering Intern, Device Experiences (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/hpiq/jobs/6114912004",
+      "location": "San Francisco, CA",
+      "jd": "Summer 2027 device-experiences software engineering internship. Build user-facing device software and collaborate across technical teams. The employer seeks students pursuing computer science or a related technical degree with strong programming in languages such as Java or C++. Review the device/software systems expectations against actual project evidence. Sponsorship is not specified.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "SDE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "greenhouse:hpiq",
+      "sourceState": "official-page",
+      "jdTextKind": "verified-employer-jd-summary",
+      "apiUrl": "https://boards-api.greenhouse.io/v1/boards/hpiq/jobs?content=true",
+      "seasonEvidenceType": "summer-only",
+      "sponsorshipEvidence": "unknown",
+      "alternateSources": [],
+      "contentHash": "14b7b3d55f376bf9ecf683423b5eadcf45ff04e4fb1711c08754ea2ce84280d2",
+      "id": "catalog-8a375be05ce0c31857",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://job-boards.greenhouse.io/hpiq/jobs/6114912004",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "company": "HP IQ",
+      "title": "Software Engineering Intern, Product & Developer Productivity  (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/hpiq/jobs/6114890004",
+      "location": "San Francisco, CA",
+      "jd": "Summer 2027 product and developer-productivity engineering internship. Work on software and tools that improve product development and engineering workflows. Students pursuing, or candidates who recently completed, a bachelor’s or graduate degree in computer science, engineering or a related field are in scope. Assess the employer’s detailed responsibilities and practical engineering requirements using the linked original JD. Sponsorship is not stated.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "AIE",
+        "SDE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "greenhouse:hpiq",
+      "sourceState": "official-page",
+      "jdTextKind": "verified-employer-jd-summary",
+      "apiUrl": "https://boards-api.greenhouse.io/v1/boards/hpiq/jobs?content=true",
+      "seasonEvidenceType": "summer-only",
+      "sponsorshipEvidence": "unknown",
+      "alternateSources": [],
+      "contentHash": "c015aaf4c1201ac672bf4ed760d6d95ed17690e7650fb9d01f93e8d080c6f552",
+      "id": "catalog-bcb4e5533ae79c91db",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://job-boards.greenhouse.io/hpiq/jobs/6114890004",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "company": "HP IQ",
+      "title": "Software Engineering Intern, Product Security (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/hpiq/jobs/6116398004",
+      "location": "San Francisco, CA",
+      "jd": "Summer 2027 product-security software engineering internship. Build and test security-related software for the product platform. Candidates may be pursuing a bachelor’s or graduate degree in computer science or a related field; experience in C, C++, Java or Python is relevant. Security-specific qualifications need direct evidence from projects or study. Sponsorship is not specified.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "SDE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "greenhouse:hpiq",
+      "sourceState": "official-page",
+      "jdTextKind": "verified-employer-jd-summary",
+      "apiUrl": "https://boards-api.greenhouse.io/v1/boards/hpiq/jobs?content=true",
+      "seasonEvidenceType": "summer-only",
+      "sponsorshipEvidence": "unknown",
+      "alternateSources": [],
+      "contentHash": "01ef11259cf713934027685023ac754575c1ba3398a4772e65b4872e1300a182",
+      "id": "catalog-d0faba87dbdba29f69",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://job-boards.greenhouse.io/hpiq/jobs/6116398004",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "company": "HP IQ",
+      "title": "Software Engineering Intern, Software Systems (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/hpiq/jobs/6140119004",
+      "location": "San Francisco, CA",
+      "jd": "Summer 2027 software-systems internship. Build and optimize low-level systems software, primarily using C or C++. Relevant degree fields include computer science, computer engineering, electrical engineering, mathematics and physics. Programming experience in C/C++ and familiarity with modern C++ are relevant. This should be assessed as a systems role with a substantive C++ requirement; sponsorship is unspecified.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "SDE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "greenhouse:hpiq",
+      "sourceState": "official-page",
+      "jdTextKind": "verified-employer-jd-summary",
+      "apiUrl": "https://boards-api.greenhouse.io/v1/boards/hpiq/jobs?content=true",
+      "seasonEvidenceType": "summer-only",
+      "sponsorshipEvidence": "unknown",
+      "alternateSources": [],
+      "contentHash": "0f28f0e268205de14342d867bcd77b99cd37e0a5210aa1ecbdaf0e4940224893",
+      "id": "catalog-5526c2a883996d2758",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://job-boards.greenhouse.io/hpiq/jobs/6140119004",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "company": "General Matter",
+      "title": "Summer 2027 Internship - Software Engineering",
+      "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5377118008",
+      "location": "Los Angeles, CA",
+      "jd": "Los Angeles Summer 2027 software engineering internship. Build reliable and maintainable systems in C++ and Python, including backend services, automation or data pipelines. Current undergraduate and graduate students in computer science, engineering or related fields are accepted. C++/Python proficiency is relevant; profiling, performance optimization and low-level programming projects are useful. The retrieved JD does not establish a sponsorship or export-control policy; verify those items without inferring restrictions from the company’s industry.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "SDE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "greenhouse:generalmatter",
+      "sourceState": "official-page",
+      "jdTextKind": "verified-employer-jd-summary",
+      "apiUrl": "https://boards-api.greenhouse.io/v1/boards/generalmatter/jobs?content=true",
+      "seasonEvidenceType": "summer-only",
+      "sponsorshipEvidence": "unknown",
+      "alternateSources": [],
+      "contentHash": "ae542c7f556f2acdfb0be927cf17395f7314ddbb4ce2c6774d4771d726e34c21",
+      "id": "catalog-454e24e553a0a66d15",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5377118008",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "company": "General Matter",
+      "title": "Summer 2027 Internship - Embedded Software Engineering",
+      "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5377131008",
+      "location": "Los Angeles, CA",
+      "jd": "Los Angeles Summer 2027 embedded software engineering internship. Build firmware controlling electromechanical actuators, processing sensor data and implementing fault-tolerant logic. Current undergraduate or graduate students in computer science, computer engineering, electrical engineering or related fields are in scope. C/C++, Rust and PLCs are relevant to the work; development experience may include Go or Python. Confirm sponsorship and any project-specific export authorization directly with the employer.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "SDE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "greenhouse:generalmatter",
+      "sourceState": "official-page",
+      "jdTextKind": "verified-employer-jd-summary",
+      "apiUrl": "https://boards-api.greenhouse.io/v1/boards/generalmatter/jobs?content=true",
+      "seasonEvidenceType": "summer-only",
+      "sponsorshipEvidence": "unknown",
+      "alternateSources": [],
+      "contentHash": "0c60b987224331bcbe30f925515ea7dcd537ef7d6983442791d0734057e96cc1",
+      "id": "catalog-bed4f786069711b549",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5377131008",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "company": "Freeform",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003",
+      "location": "Los Angeles, CA (On-site)",
+      "jd": "Los Angeles on-site software engineering internship for Summer 2027. Develop infrastructure for automated metal manufacturing, including controls, rapid data acquisition and geometry-processing pipelines. C++ and Rust or comparable systems experience are relevant. The JD lists current enrollment in an ABET bachelor’s program but also lists an advanced degree as preferred and provides master’s compensation, creating a degree requirement conflict. Clarify master’s eligibility and sponsorship before prioritizing.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "SDE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "greenhouse:freeformfuturecorp",
+      "sourceState": "official-page",
+      "jdTextKind": "verified-employer-jd-summary",
+      "apiUrl": "https://boards-api.greenhouse.io/v1/boards/freeformfuturecorp/jobs?content=true",
+      "seasonEvidenceType": "summer-only",
+      "sponsorshipEvidence": "unknown",
+      "alternateSources": [],
+      "contentHash": "e79aef7b55dd75c5f6e084d52588206699a24fc9dce4b45f28010d1c2d0d8dcb",
+      "id": "catalog-38d699aa5f8dfb55af",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "company": "CTGT",
+      "title": "Research Intern: Interpretability & Reliability (Summer 2027)",
+      "url": "https://www.ycombinator.com/companies/ctgt/jobs/rN5ZtuG-research-intern-interpretability-reliability-summer-2027",
+      "location": "San Francisco, CA, US",
+      "jd": "In-person research internship lasting 10–12 weeks between May/June and August/September 2027. Investigate model representations, feature extraction and runtime interventions, then design rigorous reliability evaluations and help turn findings into production capabilities. Candidates pursuing bachelor’s through doctoral degrees in computer science, mathematics, sciences or related quantitative fields are accepted. Strong linear algebra, probability, optimization and information theory, ability to implement research papers, and practical PyTorch/ML coding are relevant. The employer explicitly offers US visa sponsorship. Apply with one strong project, paper, repository or calculation and explain its significance. The listing is live on the employer’s YC page but absent from its current Ashby board.",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "AIE",
+        "MLE"
+      ],
+      "checkedAt": "2026-09-06",
+      "source": "discovery:y-combinator-jobs",
+      "sourceState": "official-page",
+      "jdTextKind": "verified-employer-jd-summary",
+      "seasonEvidenceType": "summer-only",
+      "sponsorshipEvidence": "Employer explicitly offers US visa sponsorship; specific visa type and future conversion details unspecified.",
+      "alternateSources": [
+        "https://www.ycombinator.com/companies/ctgt/jobs"
+      ],
+      "id": "catalog-db261060af7edeecba",
+      "country": "US",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06",
+      "sources": [
+        {
+          "url": "https://www.ycombinator.com/companies/ctgt/jobs/rN5ZtuG-research-intern-interpretability-reliability-summer-2027",
+          "title": "Employer posting"
+        }
+      ],
+      "status": "Not started"
+    },
+    {
+      "company": "TikTok",
+      "title": "(General Hire) Machine Learning Engineer Intern (TikTok-Recommendation) - 2027 Summer",
+      "url": "https://lifeattiktok.com/search/7662653087863081221",
+      "officialJobCode": "A64188B",
+      "year": 2027,
+      "season": "Summer",
+      "tracks": [
+        "MLE",
+        "AIE"
+      ],
+      "location": "San Jose, California, United States",
+      "country": "US",
+      "yearEvidence": "The title names Summer 2027; the qualifications require a 12-week commitment.",
+      "degree": "Master's in computer science, machine learning, or a similar field.",
+      "degreeQuote": "Currently pursuing a Master degree",
+      "graduation": "No graduation window stated.",
+      "requiredSkills": [
+        "Theoretical and empirical research knowledge",
+        "Deep learning framework experience, such as PyTorch or TensorFlow",
+        "Deep neural network architecture familiarity"
+      ],
+      "preferredSkills": [
+        "Applied ML, ML infrastructure, recommendation systems, or ML product research",
+        "First-author AI publications",
+        "C/C++, Python, shell, data structures and algorithms",
+        "AI research internship experience"
+      ],
+      "requirementsClassified": true,
+      "jd": "Develop recommendation models, content understanding and LLM solutions; improve end-to-end ML algorithms and infrastructure. Rolling review; availability dates requested on the resume. The company limits candidates to two applications across its affiliates globally.",
+      "jdTextKind": "research-summary",
+      "verificationMethod": "Current official page, including full qualifications, was read.",
+      "sourceState": "live-page",
+      "openStatus": "open",
+      "openStatusEvidence": "Official job detail and Apply link visible.",
+      "checkedAt": "2026-09-06",
+      "sponsorshipEvidence": "Unknown: no sponsorship policy stated in this JD.",
+      "sponsorshipQuote": null,
+      "cptEvidence": "Unknown: no CPT or F-1 policy stated in this JD.",
+      "cptQuote": null,
+      "id": "catalog-5703106a78831ac771",
+      "source": "Employer · TikTok",
+      "yearBasis": "employer-text",
+      "officialVerifiedAt": "2026-09-06T09:07:15Z",
+      "lastSeenAt": "2026-09-06T09:07:15Z",
+      "sources": [
+        {
+          "title": "TikTok official internship description",
+          "url": "https://lifeattiktok.com/search/7662653087863081221"
+        }
+      ],
+      "firstSeenAt": null,
+      "urlAliases": [
+        "https://lifeattiktok.com/search/7662653087863081221"
+      ],
+      "status": "Not started"
+    }
+  ],
+  "researchChecks": []
+}

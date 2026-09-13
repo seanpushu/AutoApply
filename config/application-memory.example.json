@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": null,
+  "contact": {},
+  "confirmedFacts": {},
+  "documents": {
+    "currentResume": null,
+    "undergraduateTranscript": null,
+    "currentEnrollmentProof": null
+  },
+  "unconfirmed": [],
+  "preferences": {
+    "confirmEachFinalSubmission": true,
+    "internshipsOnly": true
+  },
+  "applicationHistory": []
+}

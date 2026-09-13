@@ -1,0 +1,526 @@
+{
+  "version": 2,
+  "sources": [
+    {
+      "id": "simplify-2027",
+      "kind": "community-json",
+      "name": "Simplify + Pitt CSC",
+      "url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "feedUrl": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json",
+      "family": "simplify-pittcsc",
+      "coverage": "Community tech internship catalogue. Season and eligibility need employer confirmation."
+    },
+    {
+      "id": "pittcsc-2027",
+      "kind": "community-json",
+      "name": "Pitt CSC repository",
+      "url": "https://github.com/pittcsc/Summer2027-Internships",
+      "feedUrl": "https://raw.githubusercontent.com/pittcsc/Summer2027-Internships/dev/.github/scripts/listings.json",
+      "family": "simplify-pittcsc",
+      "coverage": "Related community repository; overlapping records are deduplicated, not independent employer verification."
+    },
+    {
+      "id": "vansh-2027",
+      "kind": "community-json",
+      "name": "Vansh Summer 2027",
+      "url": "https://github.com/vanshb03/Summer2027-Internships",
+      "feedUrl": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/.github/scripts/listings.json",
+      "family": "vansh",
+      "coverage": "Community internship leads; source recency is monitored."
+    },
+    {
+      "id": "applyguy-2027",
+      "kind": "community-json",
+      "name": "ApplyGuy 2027",
+      "url": "https://github.com/ApplyGuy/2027-Internships",
+      "feedUrl": "https://raw.githubusercontent.com/ApplyGuy/2027-Internships/main/data/internships.json",
+      "family": "applyguy",
+      "coverage": "Community job feed. Uses original employer listing links where provided."
+    },
+    {
+      "id": "ashby:ctgt",
+      "kind": "ashby",
+      "token": "ctgt",
+      "name": "CTGT",
+      "company": "CTGT",
+      "url": "https://jobs.ashbyhq.com/ctgt",
+      "coverage": "All public CTGT postings, including future internship openings. Global/all disciplines; filter actual location, internship type and season from each employer JD.",
+      "enabled": true
+    },
+    {
+      "id": "ashby:circleback",
+      "kind": "ashby",
+      "token": "circleback",
+      "name": "Circleback",
+      "company": "Circleback",
+      "url": "https://jobs.ashbyhq.com/circleback",
+      "coverage": "All public Circleback postings, including future internship openings. Global/all disciplines; filter actual location, internship type and season from each employer JD.",
+      "enabled": true
+    },
+    {
+      "id": "ashby:netic",
+      "kind": "ashby",
+      "token": "netic",
+      "name": "Cybernetic Labs / Netic",
+      "company": "Cybernetic Labs / Netic",
+      "url": "https://jobs.ashbyhq.com/netic",
+      "coverage": "All public Cybernetic Labs / Netic postings, including future internship openings. Global/all disciplines; filter actual location, internship type and season from each employer JD.",
+      "enabled": true
+    },
+    {
+      "id": "ashby:quadrillion-labs",
+      "kind": "ashby",
+      "token": "quadrillion-labs",
+      "name": "Quadrillion",
+      "company": "Quadrillion",
+      "url": "https://jobs.ashbyhq.com/quadrillion-labs",
+      "coverage": "All public Quadrillion postings, including future internship openings. Global/all disciplines; filter actual location, internship type and season from each employer JD.",
+      "enabled": true
+    },
+    {
+      "id": "ashby:melius",
+      "kind": "ashby",
+      "token": "melius",
+      "name": "Melius",
+      "company": "Melius",
+      "url": "https://jobs.ashbyhq.com/melius",
+      "coverage": "All public Melius postings, including future internship openings. Global/all disciplines; filter actual location, internship type and season from each employer JD.",
+      "enabled": true
+    },
+    {
+      "id": "ashby:telus-digital",
+      "kind": "ashby",
+      "token": "telus-digital",
+      "name": "TELUS Digital",
+      "company": "TELUS Digital",
+      "url": "https://jobs.ashbyhq.com/telus-digital",
+      "coverage": "All public TELUS Digital postings, including future internship openings. Global/all disciplines; filter actual location, internship type and season from each employer JD.",
+      "enabled": true
+    },
+    {
+      "id": "ashby:persona.ai",
+      "kind": "ashby",
+      "token": "persona.ai",
+      "name": "Persona AI",
+      "company": "Persona AI",
+      "url": "https://jobs.ashbyhq.com/persona.ai",
+      "coverage": "All public Persona AI postings, including future internship openings. Global/all disciplines; filter actual location, internship type and season from each employer JD.",
+      "enabled": true
+    },
+    {
+      "id": "ashby:whatnot",
+      "kind": "ashby",
+      "token": "whatnot",
+      "name": "Whatnot",
+      "company": "Whatnot",
+      "url": "https://jobs.ashbyhq.com/whatnot",
+      "coverage": "All public Whatnot postings, including future internship openings. Global/all disciplines; filter actual location, internship type and season from each employer JD.",
+      "enabled": true
+    },
+    {
+      "id": "ashby:Sierra",
+      "kind": "ashby",
+      "token": "Sierra",
+      "name": "Sierra",
+      "company": "Sierra",
+      "url": "https://jobs.ashbyhq.com/Sierra",
+      "coverage": "All public Sierra postings, including future internship openings. Global/all disciplines; filter actual location, internship type and season from each employer JD.",
+      "enabled": true
+    },
+    {
+      "id": "ashby:hadrian-automation",
+      "kind": "ashby",
+      "token": "hadrian-automation",
+      "name": "Hadrian",
+      "company": "Hadrian",
+      "url": "https://jobs.ashbyhq.com/hadrian-automation",
+      "coverage": "All public Hadrian postings, including future internship openings. Global/all disciplines; filter actual location, internship type and season from each employer JD.",
+      "enabled": true
+    },
+    {
+      "id": "ashby:primer",
+      "kind": "ashby",
+      "token": "primer",
+      "name": "Primer",
+      "company": "Primer",
+      "url": "https://jobs.ashbyhq.com/primer",
+      "coverage": "All public Primer postings, including future internship openings. Global/all disciplines; filter actual location, internship type and season from each employer JD.",
+      "enabled": true
+    },
+    {
+      "id": "ashby:rivianvw.tech",
+      "kind": "ashby",
+      "token": "rivianvw.tech",
+      "name": "Rivian and Volkswagen Group Technologies",
+      "company": "Rivian and Volkswagen Group Technologies",
+      "url": "https://jobs.ashbyhq.com/rivianvw.tech",
+      "coverage": "All public Rivian and Volkswagen Group Technologies postings, including future internship openings. Global/all disciplines; filter actual location, internship type and season from each employer JD.",
+      "enabled": true
+    },
+    {
+      "id": "ashby:replit",
+      "kind": "ashby",
+      "token": "replit",
+      "name": "Replit",
+      "company": "Replit",
+      "url": "https://jobs.ashbyhq.com/replit",
+      "coverage": "All public Replit postings, including future internship openings. Global/all disciplines; filter actual location, internship type and season from each employer JD.",
+      "enabled": true
+    },
+    {
+      "id": "ashby:exa",
+      "kind": "ashby",
+      "token": "exa",
+      "name": "Exa",
+      "company": "Exa",
+      "url": "https://jobs.ashbyhq.com/exa",
+      "coverage": "All public Exa postings, including future internship openings. Global/all disciplines; filter actual location, internship type and season from each employer JD.",
+      "enabled": true
+    },
+    {
+      "id": "ashby:modal",
+      "kind": "ashby",
+      "token": "modal",
+      "name": "Modal",
+      "company": "Modal",
+      "url": "https://jobs.ashbyhq.com/modal",
+      "coverage": "All public Modal postings, including future internship openings. Global/all disciplines; filter actual location, internship type and season from each employer JD.",
+      "enabled": true
+    },
+    {
+      "id": "ashby:hypercubic",
+      "kind": "ashby",
+      "token": "hypercubic",
+      "name": "Hypercubic",
+      "company": "Hypercubic",
+      "url": "https://jobs.ashbyhq.com/hypercubic",
+      "coverage": "All public Hypercubic postings, including future internship openings. Global/all disciplines; filter actual location, internship type and season from each employer JD.",
+      "enabled": true
+    },
+    {
+      "id": "ashby:kastle",
+      "kind": "ashby",
+      "token": "kastle",
+      "name": "Kastle",
+      "company": "Kastle",
+      "url": "https://jobs.ashbyhq.com/kastle",
+      "coverage": "All public Kastle postings, including future internship openings. Global/all disciplines; filter actual location, internship type and season from each employer JD.",
+      "enabled": true
+    },
+    {
+      "id": "ashby:skydio",
+      "kind": "ashby",
+      "token": "skydio",
+      "name": "Skydio",
+      "company": "Skydio",
+      "url": "https://jobs.ashbyhq.com/skydio",
+      "coverage": "All public Skydio postings, including future internship openings. Global/all disciplines; filter actual location, internship type and season from each employer JD.",
+      "enabled": true
+    },
+    {
+      "id": "ashby:notion",
+      "kind": "ashby",
+      "token": "notion",
+      "name": "Notion",
+      "company": "Notion",
+      "url": "https://jobs.ashbyhq.com/notion",
+      "coverage": "All public Notion postings, including future internship openings. Global/all disciplines; filter actual location, internship type and season from each employer JD.",
+      "enabled": true
+    },
+    {
+      "id": "ashby:zip",
+      "kind": "ashby",
+      "token": "zip",
+      "name": "Zip",
+      "company": "Zip",
+      "url": "https://jobs.ashbyhq.com/zip",
+      "coverage": "All public Zip postings, including future internship openings. Global/all disciplines; filter actual location, internship type and season from each employer JD.",
+      "enabled": true
+    },
+    {
+      "id": "ashby:pylon-labs",
+      "kind": "ashby",
+      "token": "pylon-labs",
+      "name": "Pylon",
+      "company": "Pylon",
+      "url": "https://jobs.ashbyhq.com/pylon-labs",
+      "coverage": "All public Pylon postings, including future internship openings. Global/all disciplines; filter actual location, internship type and season from each employer JD.",
+      "enabled": true
+    },
+    {
+      "id": "greenhouse:sage49",
+      "kind": "greenhouse",
+      "token": "sage49",
+      "name": "Sage",
+      "company": "Sage",
+      "url": "https://job-boards.greenhouse.io/sage49",
+      "coverage": "All public Sage postings, including future internship openings. Global/all disciplines; filter actual location, internship type and season from each employer JD.",
+      "enabled": true
+    },
+    {
+      "id": "greenhouse:verkada",
+      "kind": "greenhouse",
+      "token": "verkada",
+      "name": "Verkada",
+      "company": "Verkada",
+      "url": "https://job-boards.greenhouse.io/verkada",
+      "coverage": "All public Verkada postings, including future internship openings. Global/all disciplines; filter actual location, internship type and season from each employer JD.",
+      "enabled": true
+    },
+    {
+      "id": "greenhouse:scaleai",
+      "kind": "greenhouse",
+      "token": "scaleai",
+      "name": "Scale AI",
+      "company": "Scale AI",
+      "url": "https://job-boards.greenhouse.io/scaleai",
+      "coverage": "All public Scale AI postings, including future internship openings. Global/all disciplines; filter actual location, internship type and season from each employer JD.",
+      "enabled": true
+    },
+    {
+      "id": "greenhouse:gardacp",
+      "kind": "greenhouse",
+      "token": "gardacp",
+      "name": "Garda Capital Partners",
+      "company": "Garda Capital Partners",
+      "url": "https://job-boards.greenhouse.io/gardacp",
+      "coverage": "All public Garda Capital Partners postings, including future internship openings. Global/all disciplines; filter actual location, internship type and season from each employer JD.",
+      "enabled": true
+    },
+    {
+      "id": "greenhouse:appian",
+      "kind": "greenhouse",
+      "token": "appian",
+      "name": "Appian",
+      "company": "Appian",
+      "url": "https://job-boards.greenhouse.io/appian",
+      "coverage": "All public Appian postings, including future internship openings. Global/all disciplines; filter actual location, internship type and season from each employer JD.",
+      "enabled": true
+    },
+    {
+      "id": "greenhouse:hyannisportresearch",
+      "kind": "greenhouse",
+      "token": "hyannisportresearch",
+      "name": "HPR",
+      "company": "HPR",
+      "url": "https://job-boards.greenhouse.io/hyannisportresearch",
+      "coverage": "All public HPR postings, including future internship openings. Global/all disciplines; filter actual location, internship type and season from each employer JD.",
+      "enabled": true
+    },
+    {
+      "id": "greenhouse:bti36021",
+      "kind": "greenhouse",
+      "token": "bti36021",
+      "name": "BTI360",
+      "company": "BTI360",
+      "url": "https://job-boards.greenhouse.io/bti36021",
+      "coverage": "All public BTI360 postings, including future internship openings. Global/all disciplines; filter actual location, internship type and season from each employer JD.",
+      "enabled": true
+    },
+    {
+      "id": "greenhouse:generalmatter",
+      "kind": "greenhouse",
+      "token": "generalmatter",
+      "name": "General Matter",
+      "company": "General Matter",
+      "url": "https://job-boards.greenhouse.io/generalmatter",
+      "coverage": "All public General Matter postings, including future internship openings. Global/all disciplines; filter actual location, internship type and season from each employer JD.",
+      "enabled": true
+    },
+    {
+      "id": "greenhouse:idmeuniversityrecruiting",
+      "kind": "greenhouse",
+      "token": "idmeuniversityrecruiting",
+      "name": "ID.me",
+      "company": "ID.me",
+      "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting",
+      "coverage": "All public ID.me postings, including future internship openings. Global/all disciplines; filter actual location, internship type and season from each employer JD.",
+      "enabled": true
+    },
+    {
+      "id": "greenhouse:eulerity",
+      "kind": "greenhouse",
+      "token": "eulerity",
+      "name": "Eulerity",
+      "company": "Eulerity",
+      "url": "https://job-boards.greenhouse.io/eulerity",
+      "coverage": "All public Eulerity postings, including future internship openings. Global/all disciplines; filter actual location, internship type and season from each employer JD.",
+      "enabled": true
+    },
+    {
+      "id": "greenhouse:hpiq",
+      "kind": "greenhouse",
+      "token": "hpiq",
+      "name": "HP IQ",
+      "company": "HP IQ",
+      "url": "https://job-boards.greenhouse.io/hpiq",
+      "coverage": "All public HP IQ postings, including future internship openings. Global/all disciplines; filter actual location, internship type and season from each employer JD.",
+      "enabled": true
+    },
+    {
+      "id": "greenhouse:freeformfuturecorp",
+      "kind": "greenhouse",
+      "token": "freeformfuturecorp",
+      "name": "Freeform",
+      "company": "Freeform",
+      "url": "https://job-boards.greenhouse.io/freeformfuturecorp",
+      "coverage": "All public Freeform postings, including future internship openings. Global/all disciplines; filter actual location, internship type and season from each employer JD.",
+      "enabled": true
+    },
+    {
+      "id": "greenhouse:thenuclearcompany",
+      "kind": "greenhouse",
+      "token": "thenuclearcompany",
+      "name": "The Nuclear Company",
+      "company": "The Nuclear Company",
+      "url": "https://job-boards.greenhouse.io/thenuclearcompany",
+      "coverage": "All public The Nuclear Company postings, including future internship openings. Global/all disciplines; filter actual location, internship type and season from each employer JD.",
+      "enabled": true
+    },
+    {
+      "id": "greenhouse:nisc",
+      "kind": "greenhouse",
+      "token": "nisc",
+      "name": "NISC",
+      "company": "NISC",
+      "url": "https://job-boards.greenhouse.io/nisc",
+      "coverage": "All public NISC postings, including future internship openings. Global/all disciplines; filter actual location, internship type and season from each employer JD.",
+      "enabled": true
+    },
+    {
+      "id": "greenhouse:perpay",
+      "kind": "greenhouse",
+      "token": "perpay",
+      "name": "Perpay",
+      "company": "Perpay",
+      "url": "https://job-boards.greenhouse.io/perpay",
+      "coverage": "All public Perpay postings, including future internship openings. Global/all disciplines; filter actual location, internship type and season from each employer JD.",
+      "enabled": true
+    },
+    {
+      "id": "lever:palantir",
+      "kind": "lever",
+      "token": "palantir",
+      "name": "Palantir",
+      "company": "Palantir",
+      "url": "https://jobs.lever.co/palantir",
+      "coverage": "All public Palantir postings, including future internship openings. Global/all disciplines; filter actual location, internship type and season from each employer JD.",
+      "enabled": true
+    },
+    {
+      "id": "lever:belvederetrading",
+      "kind": "lever",
+      "token": "belvederetrading",
+      "name": "Belvedere Trading",
+      "company": "Belvedere Trading",
+      "url": "https://jobs.lever.co/belvederetrading",
+      "coverage": "All public Belvedere Trading postings, including future internship openings. Global/all disciplines; filter actual location, internship type and season from each employer JD.",
+      "enabled": true
+    },
+    {
+      "id": "greenhouse:waymo",
+      "kind": "greenhouse",
+      "token": "waymo",
+      "name": "Waymo",
+      "company": "Waymo",
+      "url": "https://careers.withwaymo.com/jobs",
+      "enabled": true,
+      "coverage": "Current public employer board; exact titles and degree restrictions vary."
+    }
+  ],
+  "resources": [
+    {
+      "title": "SimplifyJobs/Summer2027-Internships",
+      "url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "type": "Community feed",
+      "detail": "Community internship discovery across the US, Canada and other countries; software, AI/ML/data, and other functions. Historical and inactive rows coexist with Summer 2027 rows. Automated feed is included."
+    },
+    {
+      "title": "vanshb03/Summer2027-Internships",
+      "url": "https://github.com/vanshb03/Summer2027-Internships",
+      "type": "Community feed",
+      "detail": "Community internship discovery across the US, Canada and other countries; software, AI/ML/data, and other functions. Historical and inactive rows coexist with Summer 2027 rows. Automated feed is included."
+    },
+    {
+      "title": "pittcsc/Summer2027-Internships",
+      "url": "https://github.com/pittcsc/Summer2027-Internships",
+      "type": "Community feed",
+      "detail": "Community internship discovery across the US, Canada and other countries; software, AI/ML/data, and other functions. Historical and inactive rows coexist with Summer 2027 rows. Automated feed is included."
+    },
+    {
+      "title": "ApplyGuy/2027-Internships",
+      "url": "https://github.com/ApplyGuy/2027-Internships",
+      "type": "Community feed",
+      "detail": "Community internship discovery across the US, Canada and other countries; software, AI/ML/data, and other functions. Historical and inactive rows coexist with Summer 2027 rows. Automated feed is included."
+    },
+    {
+      "title": "Wellfound",
+      "url": "https://wellfound.com/jobs",
+      "type": "Job platform",
+      "detail": "Startups and AI companies, including live Summer 2027 Sage, Freeform and Pylon listings. Search/capture resource; no automatic account synchronization."
+    },
+    {
+      "title": "Y Combinator Jobs",
+      "url": "https://www.ycombinator.com/jobs",
+      "type": "Job platform",
+      "detail": "YC startup jobs, including CTGT research and Circleback Summer 2027 internships. Search/capture resource; no automatic account synchronization."
+    },
+    {
+      "title": "YC Work at a Startup",
+      "url": "https://www.workatastartup.com/",
+      "type": "Job platform",
+      "detail": "Same YC hiring ecosystem; company/job discovery and matching. Search/capture resource; no automatic account synchronization."
+    },
+    {
+      "title": "Built In",
+      "url": "https://builtin.com/jobs/internships",
+      "type": "Job platform",
+      "detail": "US technology internships, including 2027 postings despite a 2026 search-page heading. Search/capture resource; no automatic account synchronization."
+    },
+    {
+      "title": "Indeed",
+      "url": "https://www.indeed.com/jobs?q=Software+Engineering+Summer+Internship",
+      "type": "Job platform",
+      "detail": "Broad US software internships with Summer 2027 results; multinational results need country filtering. Search/capture resource; no automatic account synchronization."
+    },
+    {
+      "title": "Dice",
+      "url": "https://www.dice.com/jobs/q-Software%2BEngineer%2BIntern-jobs",
+      "type": "Job platform",
+      "detail": "US technology jobs, including internships mixed with contracts and experienced roles. Search/capture resource; no automatic account synchronization."
+    },
+    {
+      "title": "WayUp",
+      "url": "https://www.wayup.com/s/_/software/",
+      "type": "Job platform",
+      "detail": "Early-career jobs and internships, including 2027 listings mixed with older season headings. Search/capture resource; no automatic account synchronization."
+    },
+    {
+      "title": "Prosple US",
+      "url": "https://prosple.com/",
+      "type": "Job platform",
+      "detail": "US graduate/internship portal; regional Prosple domains may mirror jobs in other countries. Search/capture resource; no automatic account synchronization."
+    },
+    {
+      "title": "CMU OIE · work authorization answers",
+      "url": "https://www.cmu.edu/oie/employment/resources/work-authorization.html",
+      "type": "International student",
+      "detail": "Review the exact wording of current authorization and future sponsorship questions."
+    },
+    {
+      "title": "USCIS H-1B Employer Data Hub",
+      "url": "https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub",
+      "type": "Sponsorship research",
+      "detail": "Historical employer petitions only; not a promise for a specific internship."
+    },
+    {
+      "title": "DOL employer disclosure data",
+      "url": "https://www.dol.gov/agencies/eta/foreign-labor/performance",
+      "type": "Sponsorship research",
+      "detail": "Historical LCA cases; separate from current internship/CPT eligibility."
+    }
+  ],
+  "enrichEmployerDetails": true,
+  "jobTypePolicy": "Internships and co-ops only. Exclude full-time/new-grad jobs from all future discovery and imports; full-time hours during an internship do not make it a permanent job.",
+  "excludedJobIds": []
+}

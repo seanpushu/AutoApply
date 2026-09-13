@@ -1,0 +1,9 @@
+{
+ "manifest_version":3,
+ "name":"Summer 27 · 确认后投递助手",
+ "version":"1.0.0",
+ "description":"按你选择的岗位预填资料、附上指定简历，逐份确认后点击雇主提交按钮。无后台搜索或模型调用。",
+ "permissions":["activeTab","scripting"],
+ "action":{"default_title":"Summer 27 投递助手","default_popup":"popup.html"},
+ "content_security_policy":{"extension_pages":"script-src 'self'; object-src 'none'"}
+}

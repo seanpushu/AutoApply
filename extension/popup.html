@@ -1,0 +1,14 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Summer 27 投递助手</title><link rel="stylesheet" href="popup.css"></head><body>
+<header><b>SUMMER / 27</b><span>每份申请，由你确认</span></header>
+<p class="hint">只在你打开助手时读取当前表单。资料保存在此浏览器中，没有后台运行或模型调用。</p>
+<label class="upload">导入工作台导出的申请包 <input id="import" type="file" accept=".json,application/json"></label>
+<p id="notice" role="status"></p>
+<section id="workspace" hidden><label>本次申请<select id="job"></select></label><div id="destination" class="card"></div><button id="open">打开这个岗位</button>
+<details><summary>本次将使用的资料与简历</summary><div id="kit-details"></div></details>
+<p class="hint">预填会把所列资料写到雇主页面。选择附件可能立即上传简历，即使还没点击提交。已有答案和已选附件会保留；授权、赞助、同意条款及敏感问题需在原页填写。</p>
+<label class="check"><input id="prepare-consent" type="checkbox">我确认这份资料和简历可以传到这个岗位的雇主页面</label>
+<button id="prepare">确认预填并附上指定简历</button><button id="inspect">读取当前表单，准备最终确认</button>
+<section id="review" hidden><h2>提交前逐项核对</h2><div id="review-details"></div><div id="blockers"></div><label class="check"><input id="submit-consent" type="checkbox">我已核对原站岗位、全部答案、附件及页面条款，确认提交这一份申请</label><button id="submit" class="primary" disabled>确认并提交这一份</button><p class="hint">确认有效期 2 分钟；表单或附件改变后必须重新读取。不自动重试提交。</p></section>
+<section id="receipt" hidden><h2>核实雇主回执</h2><p>点击提交不等于申请成功。请查看雇主成功页面或邮件，再记录结果。</p><label>回执说明或确认编号<input id="receipt-note" placeholder="例如：页面显示 Application received"></label><label class="check"><input id="receipt-consent" type="checkbox">我已看到这个岗位的成功页面或收到确认邮件</label><button id="confirm-receipt">记录为已收到回执</button></section>
+<button id="export">导出回执，带回工作台</button><p class="hint">如果页面需要验证码、登录、复杂自定义控件或无法验证附件，请在原站完成。助手不会绕过这些步骤。</p></section>
+<script type="module" src="popup.mjs"></script></body></html>

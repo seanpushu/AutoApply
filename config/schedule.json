@@ -1,0 +1,6 @@
+{
+  "status": "not-configured",
+  "mode": "reminder-only",
+  "intervalDays": 3,
+  "display": "Configure a local reminder; refresh requires confirmation."
+}

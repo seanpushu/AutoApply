@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "profile": {
+    "name": "Demo Candidate",
+    "firstName": "Demo",
+    "lastName": "Candidate",
+    "graduation": "2028-05",
+    "degree": "master",
+    "school": "Example University",
+    "headline": "Applied AI and software engineering candidate",
+    "email": "",
+    "linkedin": "",
+    "github": "",
+    "phone": "",
+    "authorization": "unknown",
+    "sponsorship": "unknown",
+    "citizenship": "unknown",
+    "evidence": [
+      {
+        "id": "demo_rag",
+        "title": "Retrieval augmented generation prototype",
+        "body": "Built a small retrieval augmented generation prototype with Python and an open source language model, then evaluated retrieval quality on a synthetic question set.",
+        "skills": ["Python", "RAG", "LLM", "Evaluation"],
+        "source": "Illustrative demo data",
+        "kind": "project"
+      },
+      {
+        "id": "demo_backend",
+        "title": "Backend service and data model",
+        "body": "Designed a sample backend service with a relational data model, API endpoints, and automated tests for a small inventory workflow.",
+        "skills": ["SQL", "PostgreSQL", "API", "Testing"],
+        "source": "Illustrative demo data",
+        "kind": "project"
+      },
+      {
+        "id": "demo_forecasting",
+        "title": "Time series forecasting experiment",
+        "body": "Implemented a reproducible time series forecasting experiment with baseline comparisons and documented evaluation metrics.",
+        "skills": ["Python", "Time series", "Machine learning", "Evaluation"],
+        "source": "Illustrative demo data",
+        "kind": "project"
+      }
+    ],
+    "conflicts": [],
+    "focus": {
+      "AIE": {
+        "title": "AI Engineering",
+        "priority": "Primary",
+        "summary": "Lead with retrieval workflows, model integration, data curation and evaluation.",
+        "roles": ["AI Engineer Intern", "LLM Engineer Intern", "Generative AI Engineer Intern"],
+        "evidenceIds": ["demo_rag"],
+        "gaps": ["Serving and deployment ownership", "Latency and cost measurements"]
+      },
+      "SDE": {
+        "title": "Software Engineering",
+        "priority": "Backend and AI platform",
+        "summary": "Lead with relational data models, API workflows, testing and Python/SQL.",
+        "roles": ["Software Engineer Intern", "Backend Engineer Intern", "AI Platform Engineer Intern"],
+        "evidenceIds": ["demo_backend"],
+        "gaps": ["Data structures and algorithms interview readiness", "Deployment and production operations"]
+      },
+      "MLE": {
+        "title": "Machine Learning Engineering",
+        "priority": "Applied ML and model systems",
+        "summary": "Lead with model training, forecasting, reproducible experiments and evaluation.",
+        "roles": ["Machine Learning Engineer Intern", "Applied ML Intern", "ML Platform Intern"],
+        "evidenceIds": ["demo_rag", "demo_forecasting"],
+        "gaps": ["MLOps and model monitoring", "Ablation studies and measured baselines"]
+      }
+    },
+    "unknowns": [
+      {
+        "id": "work_authorization",
+        "label": "Work authorization",
+        "detail": "Confirm employer and school requirements before applying."
+      },
+      {
+        "id": "graduation_window",
+        "label": "Graduation timing",
+        "detail": "Confirm the expected completion month and year."
+      },
+      {
+        "id": "contact_details",
+        "label": "Application contact details",
+        "detail": "Add verified contact details before using an autofill helper."
+      }
+    ],
+    "confirmationRevision": 2,
+    "confirmationSource": "Illustrative demo profile; application eligibility fields require confirmation."
+  },
+  "jobs": [
+    {
+      "id": "notion-sde-2027",
+      "company": "Notion",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "tracks": ["SDE", "AIE"],
+      "location": "San Francisco, CA / New York, NY",
+      "workMode": "Hybrid",
+      "season": "Summer",
+      "year": 2027,
+      "url": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c",
+      "degree": "Pursuing a BS or MS in CS, engineering, or a related field.",
+      "graduation": "Must graduate before Summer 2028.",
+      "skills": ["TypeScript", "Node.js", "Python", "React", "LLM", "Embeddings", "Testing"],
+      "required": "Previous internship; experience building or prototyping AI features; communication and collaboration.",
+      "summary": "Build and test full-stack product features, using AI to improve the experience across services, databases, and applications.",
+      "pay": "BS $57/h; MS $61/h",
+      "keywords": ["full-stack", "AI product", "TypeScript", "LLM"],
+      "country": "United States",
+      "requiredSkills": [
+        "Developing proficiency in one or more programming languages (examples: TypeScript, Node.js, Python)",
+        "Building or prototyping AI features (LLMs, embeddings, or ML)",
+        "Problem solving",
+        "Communication and collaboration"
+      ],
+      "preferredSkills": ["Expertise in technologies such as TypeScript, React, or Python"],
+      "requirementsClassified": true,
+      "skillClassificationNote": "Language examples are alternatives; the listing does not require every named technology.",
+      "jd": "Build and test full-stack product features, using AI to improve the experience across services, databases, and applications.\nPrevious internship; experience building or prototyping AI features; communication and collaboration.\nTechnologies mentioned: TypeScript, Node.js, Python, React, LLM, Embeddings, Testing",
+      "source": "Public employer listing",
+      "sources": [{
+        "title": "Notion — Software Engineer Intern",
+        "url": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c"
+      }]
+    },
+    {
+      "id": "adobe-mle-2027",
+      "company": "Adobe",
+      "title": "2027 Intern - Machine Learning Engineer",
+      "tracks": ["MLE", "AIE"],
+      "location": "San Jose / San Francisco / Austin / Seattle and other U.S. locations",
+      "workMode": "Hybrid",
+      "season": "Summer",
+      "year": 2027,
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
+      "degree": "Enrolled full-time in a BS, MS, or PhD in CS, computer engineering, or a related technical field.",
+      "graduation": "December 2027 – June 2028",
+      "graduationMin": "2027-12",
+      "graduationMax": "2028-06",
+      "skills": ["Python", "PyTorch", "TensorFlow", "LLM", "Hugging Face", "LangChain", "Cloud", "Evaluation"],
+      "required": "ML and deep learning fundamentals; generative AI and LLM knowledge; full-time internship availability.",
+      "summary": "Work on LLM applications, multimodal systems, retrieval, recommendations, or production ML across the model lifecycle.",
+      "pay": "$45–55/h",
+      "deadline": "2027-06-11",
+      "keywords": ["LLM", "evaluation", "ML lifecycle", "deployment"],
+      "country": "United States",
+      "requiredSkills": [
+        "ML and deep learning fundamentals",
+        "Familiarity with generative AI and LLMs",
+        "Python",
+        "Hands-on ML frameworks such as PyTorch or TensorFlow"
+      ],
+      "preferredSkills": [
+        "Java or C++",
+        "LLM tooling such as Hugging Face or LangChain",
+        "ML libraries such as scikit-learn",
+        "AWS, Azure, or GCP",
+        "Model deployment and evaluation workflows"
+      ],
+      "requirementsClassified": true,
+      "skillClassificationNote": "Core qualifications and plus factors are kept separate; tool examples are grouped.",
+      "jd": "Work on LLM applications, multimodal systems, retrieval, recommendations, or production ML across the model lifecycle.\nML and deep learning fundamentals; generative AI and LLM knowledge; full-time internship availability.\nTechnologies mentioned: Python, PyTorch, TensorFlow, LLM, Hugging Face, LangChain, Cloud, Evaluation",
+      "source": "Public employer listing",
+      "sources": [{
+        "title": "Adobe — Machine Learning Engineer Intern",
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519"
+      }]
+    },
+    {
+      "id": "workiva-mle-2027",
+      "company": "Workiva",
+      "title": "Summer 2027 Intern - Machine Learning Engineering",
+      "tracks": ["MLE", "AIE"],
+      "location": "United States",
+      "workMode": "Remote or hybrid",
+      "season": "Summer",
+      "year": 2027,
+      "url": "https://workiva.wd503.myworkdayjobs.com/en-US/careers/job/Summer-2027-Intern---Machine-Learning-Engineering_R12194-1",
+      "degree": "Pursuing a bachelor's degree or higher in statistics, mathematics, CS, physics, engineering, or a related field.",
+      "graduation": "No graduation window stated.",
+      "skills": ["Python", "Go", "Git", "Docker", "Kubernetes", "AWS", "REST API", "AI agents"],
+      "required": "Solid programming and Git basics. Containers, cloud, and ML concepts are preferred.",
+      "summary": "Support tooling for model development, deployment, and monitoring; integrate document processing and AI agents; participate in testing and code review.",
+      "pay": "$40/h",
+      "deadline": "2026-10-02",
+      "keywords": ["MLOps", "AI agents", "Docker", "Kubernetes"],
+      "country": "United States",
+      "requiredSkills": ["Solid programming", "Basic source control experience, such as Git"],
+      "preferredSkills": [
+        "Data science lifecycle and basic ML concepts",
+        "Docker and Kubernetes",
+        "Cloud platforms such as AWS",
+        "Python and/or Go",
+        "REST APIs"
+      ],
+      "requirementsClassified": true,
+      "skillClassificationNote": "The named tools describe duties or preferred experience and are not all mandatory.",
+      "jd": "Support tooling for model development, deployment, and monitoring; integrate document processing and AI agents; participate in testing and code review.\nSolid programming and Git basics. Containers, cloud, and ML concepts are preferred.\nTechnologies mentioned: Python, Go, Git, Docker, Kubernetes, AWS, REST API, AI agents",
+      "source": "Public employer listing",
+      "sources": [{
+        "title": "Workiva — Machine Learning Engineering Intern",
+        "url": "https://workiva.wd503.myworkdayjobs.com/en-US/careers/job/Summer-2027-Intern---Machine-Learning-Engineering_R12194-1"
+      }]
+    },
+    {
+      "id": "c3-sde-2027",
+      "company": "C3 AI",
+      "title": "Software Engineer - Intern (Summer 2027)",
+      "tracks": ["SDE", "AIE"],
+      "location": "Redwood City, CA",
+      "workMode": "On-site",
+      "season": "Summer",
+      "year": 2027,
+      "url": "https://job-boards.greenhouse.io/c3ascend/jobs/8739036002",
+      "degree": "Pursuing a BS or MS in CS, computer engineering, or a related field.",
+      "graduation": "No graduation window stated.",
+      "skills": ["Java", "JavaScript", "Data structures", "Algorithms", "Python", "Cloud", "Databases"],
+      "required": "Object-oriented development, data structures, algorithms, and profiling or optimization fundamentals.",
+      "summary": "Build distributed foundations or customer-facing full-stack AI applications in a platform or forward-deployed engineering setting.",
+      "pay": "$8,000–10,000/month",
+      "keywords": ["platform", "full-stack", "distributed systems", "databases"],
+      "country": "United States",
+      "requiredSkills": [
+        "JavaScript, Java, or another object-oriented language",
+        "Object-oriented programming",
+        "Data structures and algorithms",
+        "Profiling and optimization"
+      ],
+      "preferredSkills": ["Cloud platforms, ML, and databases"],
+      "requirementsClassified": false,
+      "skillClassificationNote": "Assignment-specific technologies and preferences vary by team; the original skills remain illustrative.",
+      "jd": "Build distributed foundations or customer-facing full-stack AI applications in a platform or forward-deployed engineering setting.\nObject-oriented development, data structures, algorithms, and profiling or optimization fundamentals.\nTechnologies mentioned: Java, JavaScript, Data structures, Algorithms, Python, Cloud, Databases",
+      "source": "Public employer listing",
+      "sources": [{
+        "title": "C3 AI — Software Engineer Intern",
+        "url": "https://job-boards.greenhouse.io/c3ascend/jobs/8739036002"
+      }]
+    }
+  ],
+  "resources": [],
+  "researchResources": [],
+  "excluded": [],
+  "lastResearch": null
+}
